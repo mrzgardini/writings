@@ -1,0 +1,38 @@
+name: Manual workflow
+
+on:
+  push:
+    paths:
+      - 'streamofconsciousness/input.txt'
+
+
+env:
+  DEVOPS_DIR: devops
+
+jobs:
+  hello-world:
+    name: Hello world
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check-out devops repository
+      uses: actions/checkout@v3
+      with:
+        repository: my9oso6gqm/streamlit
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: ${{ env.DEVOPS_DIR }}
+
+    - name: 1
+      run: git clone https://github.com/my9oso6gqm/streamlit.git
+    - name: 2
+      run: python streamlit/streamofconsciousness/add.py
+    - name: 3
+      env:
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        cd streamlit
+        git config --local user.email "rjhgshlc2x@gmail.com"
+        git config --local user.name "my9oso6gqm"
+        git add *
+        git commit -a -m "Add changes"
+        git remote set-url --push origin https://my9oso6gqm:$GITHUB_TOKEN@github.com/my9oso6gqm/streamlit
+        git push
