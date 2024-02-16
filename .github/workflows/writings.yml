@@ -8,6 +8,9 @@ on:
 env:
   DEVOPS_DIR: devops
 
+permissions:
+  contents: write
+
 jobs:
   writings:
     name: 1
