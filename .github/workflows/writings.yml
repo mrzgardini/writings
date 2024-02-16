@@ -13,10 +13,6 @@ jobs:
     name: 1
     runs-on: ubuntu-latest
     steps:
-    - name: 1
-      uses: actions/checkout@v3
-      with:
-        repository: mrzgardini/mrzgardini.github.io.git
 
     - name: 2
       run: |
@@ -28,5 +24,5 @@ jobs:
           git config --local user.name "mrzgardini"
           git add *
           git commit -a -m "mrzgardini"
-          git remote set-url --push origin https://mrzgardini:${{ secrets.GITHUB_TOKEN }}@github.com/mrzgardini/mrzgardini.github.io
+          git remote set-url --push origin https://mrzgardini:${{ secrets.1 }}@github.com/mrzgardini/mrzgardini.github.io
           git push
