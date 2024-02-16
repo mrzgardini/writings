@@ -32,5 +32,5 @@ jobs:
         git config --local user.name "mrzgardini"
         git add *
         git commit -a -m "mrzgardini"
-        git remote set-url --push origin https://mrzgardini:$GITHUB_TOKEN@github.com/mrzgardini/mrzgardini.github.io
+        git remote set-url --push origin https://mrzgardini:$token@github.com/mrzgardini/mrzgardini.github.io
         git push
