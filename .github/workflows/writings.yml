@@ -3,7 +3,7 @@ name: writings
 on:
   push:
     paths:
-      - 'writings/input.txt'
+      - 'input.txt'
 
 env:
   DEVOPS_DIR: devops
