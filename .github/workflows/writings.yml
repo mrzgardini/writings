@@ -9,7 +9,7 @@ env:
   DEVOPS_DIR: devops
 
 jobs:
-  writing:
+  writings:
     name: 1
     runs-on: ubuntu-latest
     steps:
