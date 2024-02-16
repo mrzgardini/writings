@@ -5,9 +5,6 @@ on:
     paths:
       - 'input.txt'
 
-env:
-  DEVOPS_DIR: devops
-
 permissions:
   contents: write
 
@@ -22,18 +19,14 @@ jobs:
         repository: mrzgardini/mrzgardini.github.io
         token: ${{ secrets.GITHUB_TOKEN }}
         path: ${{ env.DEVOPS_DIR }}
-
-    - name: 2
-      env:
-       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        git clone https://github.com/mrzgardini/mrzgardini.github.io.git
-        git clone https://github.com/mrzgardini/writings.git
-        python writings/writings.py
-        cd mrzgardini.github.io
-        git config --local user.email "mrzgardini@gmail.com"
-        git config --local user.name "mrzgardini"
-        git add *
-        git commit -a -m "mrzgardini"
-        git remote set-url --push origin https://mrzgardini:${{ secrets.GITHUB_TOKEN }}@github.com/mrzgardini/mrzgardini.github.io
-        git push
+        run: |
+          git clone https://github.com/mrzgardini/mrzgardini.github.io.git
+          git clone https://github.com/mrzgardini/writings.git
+          python writings/writings.py
+          cd mrzgardini.github.io
+          git config --local user.email "mrzgardini@gmail.com"
+          git config --local user.name "mrzgardini"
+          git add *
+          git commit -a -m "mrzgardini"
+          git remote set-url --push origin https://mrzgardini:${{ secrets.GITHUB_TOKEN }}@github.com/mrzgardini/mrzgardini.github.io
+          git push
