@@ -16,9 +16,7 @@ jobs:
     - name: 1
       uses: actions/checkout@v3
       with:
-        repository: mrzgardini/mrzgardini.github.io
-        token: ${{ secrets.GITHUB_TOKEN }}
-        path: ${{ env.DEVOPS_DIR }}
+        repository: mrzgardini/mrzgardini.github.io.git
         run: |
           git clone https://github.com/mrzgardini/mrzgardini.github.io.git
           git clone https://github.com/mrzgardini/writings.git
