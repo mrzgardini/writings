@@ -2,8 +2,7 @@ import datetime
 import pytz
 import re
 
-timestamp = datetime.datetime.now(pytz.timezone('Europe/Rome')).strftime("%Y-%m-%d %H:%M:%S")
-
+timestamp = datetime.datetime.now(pytz.timezone('Europe/Rome')).strftime('%Y-%m-%d %H:%M:%S')
 a = open('mrzgardini.github.io/writings/index.htm', 'r')
 b = a.readlines()
 c = open('writings/input.txt', 'r')
