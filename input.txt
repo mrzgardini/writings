@@ -1,5 +1,3 @@
-<img src='https://media.nature.com/lw767/magazine-assets/d41586-024-00402-3/d41586-024-00402-3_26716802.jpg'></img>
-La settimana scorsa, la matematica Claire Voisin ha ricevuto il Premio Crafoord in Matematica 2024, uno dei più importanti riconoscimenti nel settore.
-È stata descritta come la massima esperta mondiale della congettura di Hodge, ancora irrisolta, un problema di geometria algebrica che riguarda la natura delle varietà contenute all'interno di una varietà più grande. La congettura è uno dei Problemi del Premio del Millennio: sette domande matematiche che portano ciascuna un premio di 1 milione di dollari per la prima persona che le risolve.
-«Il problema con la congettura di Hodge è che per dimostrarla bisogna inventare un modo per costruire varietà interessanti. E non abbiamo assolutamente alcuna idea su come farlo. Quindi, al momento, non vedo alcuna speranza.'
-nature
+AI-Based Time Series Anomaly Detection for Cyber-Physical Systems at the University of Stuttgart
+Broadly speaking, internal faults include sensor problems such as noise, drift, bias, and freeze; computing hardware issues such as bit flips; and network issues such as packet loss, delay, and jitter. External faults include attacks from malicious users and environmental conditions. All these faults, individually or in combination, can lead to failures and safety issues if not properly identified and handled.
+<a href='https://it.mathworks.com/company/technical-articles/ai-based-time-series-anomaly-detection-for-cyber-physical-systems-at-the-university-of-stuttgart.html'>https://it.mathworks.com/company/technical-articles/ai-based-time-series-anomaly-detection-for-cyber-physical-systems-at-the-university-of-stuttgart.html</a>
