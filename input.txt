@@ -1,3 +1,1 @@
-AI-Based Time Series Anomaly Detection for Cyber-Physical Systems at the University of Stuttgart
-Broadly speaking, internal faults include sensor problems such as noise, drift, bias, and freeze; computing hardware issues such as bit flips; and network issues such as packet loss, delay, and jitter. External faults include attacks from malicious users and environmental conditions. All these faults, individually or in combination, can lead to failures and safety issues if not properly identified and handled.
-<a href='https://it.mathworks.com/company/technical-articles/ai-based-time-series-anomaly-detection-for-cyber-physical-systems-at-the-university-of-stuttgart.html'>https://it.mathworks.com/company/technical-articles/ai-based-time-series-anomaly-detection-for-cyber-physical-systems-at-the-university-of-stuttgart.html</a>
+Bowman - Il costo degli investimenti finanziari <a href='https://youtube.com/watch?v=cMyNo-LgbJw'>https://youtube.com/watch?v=cMyNo-LgbJw</a>
