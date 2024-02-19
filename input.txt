@@ -1,1 +1,1 @@
-DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation <a href='https://arxiv.org/pdf/2402.06656.pdf'>https://arxiv.org/pdf/2402.06656.pdf</a>
+Fun stat. Leggendomi la maggior parte dei nuovi paper di matematica finanziaria ho notato una moda. Per esempio, negli ultimi ~ 10 giorni i matematici, economisti e informatici hanno pubblicato ~ 100 lavori accademici in questa branca della matematica applicata, ~ 33 di questi usano i modelli d'ia generativa. Un buon terzo delle pubblicazioni, un impatto della tecnologia da mascella a terra.
