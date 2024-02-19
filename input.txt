@@ -1,2 +1,1 @@
-Le Borse europee navigano a vista dopo che i dati superiori alla previsioni sui prezzi alla produzione americani sono tornati ad alimentare le incertezze sulle dinamiche dell’inflazione e sulle prossime mosse delle banche centrali. La sessione odierna è peraltro priva della bussola di Wall Street, chiusa per la festività del Presidents’ Day.
-ilsole
+Mi sono ripromesso uno stile sintetico e sobrio ma non ho resistito. Prova del mathjax: $$ (α + iβ) + (γ + iδ) + (α + γ) + i(β + δ) $$
