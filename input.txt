@@ -1,1 +1,1 @@
-Modello di Black-Scholes-Merton <div class='math'>$$S_T = S_0 \exp ((r - 1/2 sigma^2) T + sigma \sqrt{T) z})$$</div>
+The belle stars - Iko iko <a href='https://youtube.com/watch?v=wMeft7u-4Cs'>https://youtube.com/watch?v=wMeft7u-4Cs</a>
