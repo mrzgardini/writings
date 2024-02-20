@@ -1,1 +1,1 @@
-Mi sono ripromesso uno stile sintetico e sobrio ma non ho resistito. Prova del mathjax: $$ (α + iβ) + (γ + iδ) + (α + γ) + i(β + δ) $$
+Una lib python per 'building blocks for computing and machine learning on topological domains that extend graphs: hypergraphs, simplicial, cellular, path and combinatorial complexes' lavoro di un centianio di persone (alcune hanno la posta elettronica uniroma1, è la Sapienza?). Di solito tanti autori si trovano solo nei lavori di fisica. <a href='https://arxiv.org/pdf/2402.02441.pdf'>https://arxiv.org/pdf/2402.02441.pdf</a>
