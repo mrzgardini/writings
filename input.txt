@@ -1,1 +1,1 @@
-The decimal point is 150 years older than historians thought <a href='https://www.nature.com/articles/d41586-024-00473-2'>https://www.nature.com/articles/d41586-024-00473-2</a>
+How to simulate a conditional expectation given a filtration <a href='https://quant.stackexchange.com/questions/78418/how-to-simulate-a-conditional-expectation-given-a-filtration'>https://quant.stackexchange.com/questions/78418/how-to-simulate-a-conditional-expectation-given-a-filtration</a>
