@@ -1,1 +1,1 @@
-<img src='https://mrzgardini.github.io/writings/documenti/7.jpg'>
+Calcolare i numeri primi di Mersenne con arduino <a href='https://www.moreware.org/wp/blog/2024/02/23/calcolare-i-numeri-primi-di-mersenne-con-arduino/'>https://www.moreware.org/wp/blog/2024/02/23/calcolare-i-numeri-primi-di-mersenne-con-arduino/</a>
