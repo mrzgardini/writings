@@ -1,1 +1,1 @@
-adjustedCurves: Estimating Confounder-Adjusted Survival Curves in R <a href='https://arxiv.org/pdf/2402.15292.pdf'>https://arxiv.org/pdf/2402.15292.pdf</a>
+Linear system of ODE from quadratic functions <a href='https://math.stackexchange.com/questions/4870724/linear-system-of-ode-from-quadratic-functions'>https://math.stackexchange.com/questions/4870724/linear-system-of-ode-from-quadratic-functions</a>
