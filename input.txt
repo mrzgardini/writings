@@ -1,1 +1,2 @@
-Ginevra - Metropoli <a href='https://youtube.com/watch?v=DULai4QbdD4'>https://youtube.com/watch?v=DULai4QbdD4</a>
+PyRIT is battle-tested by the Microsoft AI Red Team. It started off as a set of one-off scripts as we began red teaming generative AI systems in 2022. As we red teamed different varieties of generative AI systems and probed for different risks, we added features that we found useful. Today, PyRIT is a reliable tool in the Microsoft AI Red Team’s arsenal.
+<a href='https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/'>https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/</a>
