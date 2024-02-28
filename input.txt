@@ -1,1 +1,1 @@
-Multimodal Generative Models for Bankruptcy Prediction Using Textual Data <a href='https://arxiv.org/pdf/2211.08405.pdf'>https://arxiv.org/pdf/2211.08405.pdf</a>
+<center><img src='https://mrzgardini.github.io/writings/documenti/11.jpg'></img></center>
