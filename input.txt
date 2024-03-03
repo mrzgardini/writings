@@ -1,1 +1,1 @@
-Dan Christensen @ mastodon <a href='https://mastodon.social/@jdchristensen@mathstodon.xyz/112027050393704759'>https://mastodon.social/@jdchristensen@mathstodon.xyz/112027050393704759</a>
+Piccolo aggiornamento al foglio jupyter <a href='https://colab.research.google.com/github/mrzgardini/mrzgardini.github.io/blob/master/writings/documenti/030320241723.ipynb'>https://colab.research.google.com/github/mrzgardini/mrzgardini.github.io/blob/master/writings/documenti/030320241723.ipynb</a>
