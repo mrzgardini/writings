@@ -1,1 +1,3 @@
-Aggiornamenti di sicurezza per prodotti Mozilla (AL02/240305/CSIRT-ITA) <a href='https://www.csirt.gov.it/contenuti/aggiornamenti-di-sicurezza-per-prodotti-mozilla-al02-240305-csirt-ita'>https://www.csirt.gov.it/contenuti/aggiornamenti-di-sicurezza-per-prodotti-mozilla-al02-240305-csirt-ita</a>
+Dopo l’editing genetico, cioè la modifica mirata della sequenza di Dna di un gene, arriva quello epigenetico: la possibilità di modulare il livello di attivazione di un gene senza intervenire sulla sua sequenza.
+Si tratta di un ambito di ricerca diventato molto attivo negli ultimi anni e ora un articolo su “Nature” propone la prima prova della sua efficacia a lungo termine nello spegnimento di un gene in vivo, in un organismo modello.
+<a href='https://www.ilsole24ore.com/art/colesterolo-alto-spegnere-gene-difettoso-senza-modificare-dna-AFJNjysC'>https://www.ilsole24ore.com/art/colesterolo-alto-spegnere-gene-difettoso-senza-modificare-dna-AFJNjysC</a>
