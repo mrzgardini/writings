@@ -1,1 +1,1 @@
-Thasup, Salmo, Takagi & Ketra - Bubble <a href='https://youtube.com/watch?v=5mip6w9J42w'>https://youtube.com/watch?v=5mip6w9J42w</a>
+MATLAB extension for Visual Studio Code: Now with code execution <a href='https://blogs.mathworks.com/matlab/2024/03/05/matlab-extension-for-visual-studio-code-now-with-code-execution/'>https://blogs.mathworks.com/matlab/2024/03/05/matlab-extension-for-visual-studio-code-now-with-code-execution/</a>
