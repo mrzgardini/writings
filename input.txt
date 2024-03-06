@@ -1,1 +1,3 @@
-Un po' di python dalla Paris...?! Transformer for Times Series: an Application to the S&P500 <a href='https://arxiv.org/pdf/2403.02523.pdf'>https://arxiv.org/pdf/2403.02523.pdf</a>
+Exploring Solar Imagery <a href='https://community.wolfram.com/groups/-/m/t/3106012'>https://community.wolfram.com/groups/-/m/t/3106012</a>
+
+> Achille Lauro, Rose Villain - Fragole <a href='https://youtube.com/watch?v=7WnAjND9T80&list=RDAMVM0UITfDm-8Bk'>https://youtube.com/watch?v=7WnAjND9T80&list=RDAMVM0UITfDm-8Bk</a>
