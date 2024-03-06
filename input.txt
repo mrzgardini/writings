@@ -1,1 +1,1 @@
-Thasup, Salmo, Takagi & Ketra - Bubble <a href='https://youtube.com/watch?v=5mip6w9J42w'>https://youtube.com/watch?v=5mip6w9J42w</a>
+Todo eseguito, aggiunto il timestamp ai dati in tempo reale (cosa buona e giusta). <a href='https://colab.research.google.com/github/mrzgardini/mrzgardini.github.io/blob/master/writings/documenti/030320241723.ipynb'>https://colab.research.google.com/github/mrzgardini/mrzgardini.github.io/blob/master/writings/documenti/030320241723.ipynb</a>
