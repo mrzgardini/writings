@@ -1,1 +1,1 @@
-Open Markets and Hybrid Jacobi Processes <a href='https://arxiv.org/pdf/2110.14046.pdf'>https://arxiv.org/pdf/2110.14046.pdf</a>
+float8_experimental <a href='https://github.com/pytorch-labs/float8_experimental'>https://github.com/pytorch-labs/float8_experimental</a>
