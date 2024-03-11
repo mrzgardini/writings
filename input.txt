@@ -1,2 +1,1 @@
-Uno dei concetti fondamentali della Meccanica è il concetto di punto materiale. Con punto materiale si intende un corpo le cui dimensioni si possono trascurare nella descrizione del suo moto. È ben chiaro che questa possibilità dipende della condizioni concrete di questo o di quell'altro problema. Per esempio, i pianeti possono essere considerati punti materiali quando si studia la loro rivoluzione intorno il Sole, ma, naturalmente, non quando si considera la loro rotazione.
-Lev Ladau, Evgenij Lifšits, Fisica teorica 1, meccanica, Mir, 1994.
+Multimodal Interpretable Data-Driven Models for Early Prediction of Antimicrobial Multidrug Resistance Using Multivariate Time-Series <a href='https://arxiv.org/pdf/2402.06295.pdf'>https://arxiv.org/pdf/2402.06295.pdf</a>
