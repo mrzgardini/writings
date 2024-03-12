@@ -1,3 +1,1 @@
-Una cosa figa di usare il mathematica col sagemath è la possibilità di creare una tabella con quest'ultimo e scriverla semplicemnte in formato excel o word col primo.
-
-> Cloudkid - Stranger things xander remix <a href='https://youtube.com/watch?v=MxKCm6ahrKM'>https://youtube.com/watch?v=MxKCm6ahrKM</a>
+Boundary conditions at infinity for Black–Scholes equations <a href='https://arxiv.org/pdf/2401.05549.pdf'>https://arxiv.org/pdf/2401.05549.pdf</a>
