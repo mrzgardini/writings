@@ -1,2 +1,1 @@
-Un gruppo di ricerca sotto la direzione di Gilles Kahn presso l'INRIA di Sophia Antipolis, in Francia, sta attualmente lavorando su strumenti meccanici per supportare la semantica in questo stile; si sono concentrati sulla valutazione o sull'esecuzione fino a un valore o stato finale, quindi seguendo il loro esempio questo particolare tipo di semantica operativa strutturale è talvolta chiamata "semantica naturale".
-Glynn Winskel, Formal Semantics of Programming Languages, Mit, 1994.
+Tentativo di todo per stasera: <a href='https://gemini.google.com/share/0328c5983a22'>https://gemini.google.com/share/0328c5983a22</a>
