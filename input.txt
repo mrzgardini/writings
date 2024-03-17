@@ -1,8 +1,1 @@
-Prova latexy_py
-<pre>
-def overfloooooooooooooooooooooooooooooooooooooow(a, b, c):
-  return (-b + math.sqrt(b**2 - 4*a*c)) / (2*a)
-</pre>
-<div class=math>
-$$\mathrm{overfloooooooooooooooooooooooooooooooooooooow}(a, b, c) = \frac{-b + \sqrt{ b^{2} - 4 a c }}{2 a}$$
-</div>
+Emmy Noether <a href='http://www.stormi.info/emmy-noether/#.XZ9KkkYzZPY'>http://www.stormi.info/emmy-noether/#.XZ9KkkYzZPY</a>
