@@ -4,7 +4,7 @@ Viaggio del fine settimana tra i miei segnalibri del browser col machine learnin
 
 Sono veramente tanti.
 
-<center><img src'documenti/170320241657.jpg'></img></center>
+<center><img src='https://mrzgardini.github.io/writings/documenti/170320241657.jpg'></img></center>
 
 Per prima cosa gli ho esportati in un file html e poi convertiti in un database sql.
 
