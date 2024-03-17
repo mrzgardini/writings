@@ -1,1 +1,1 @@
-Ho appena scoperto che la Pratt & Whitney da poco fa parte della Raytheon. 
+La <a href='https://www.amazon.it/dp/1718500505/'>lettura</a> alla velox di oggi, la cosa figa è che dovrebbe allenarmi a scrivere codice che poi google/latexify_py renderizzi in funzioni matematiche col paradigma funzionale che python supporta! Magari poi il programmino per i segnalibri lo stendo tutto così con anche qualche corollario su cosa faccia il modello formalmente.
