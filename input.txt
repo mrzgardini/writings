@@ -1,3 +1,1 @@
-Ghidralligator: Emulate and Fuzz the Embedded World <a href='https://www.cyber.airbus.com/ghidralligator_emulate_and_fuzz_the_embedded_world/'>https://www.cyber.airbus.com/ghidralligator_emulate_and_fuzz_the_embedded_world/</a>
-
-> Dani Faiv, Thasup - Gameboy color <a href='https://youtube.com/watch?v=hMWZNnbG5s4'>https://youtube.com/watch?v=hMWZNnbG5s4</a>
+Errori belli di python... MemoryError: Unable to allocate 30.2 GiB for an array with shape (1978795,) and data type <U4096.
