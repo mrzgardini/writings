@@ -103,9 +103,7 @@ E faccio una previsione con un nuovo segnalibro che non ho ancora catalogato.
 url = "www.google.com"
 result = pipeMNB.predict([url])
 print("Categoria: ", result[0])
-</pre>
 
-<pre>
 Categoria:  enciclopedia
 </pre>
 
