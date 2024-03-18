@@ -1,1 +1,3 @@
-Emmy Noether <a href='http://www.stormi.info/emmy-noether/#.XZ9KkkYzZPY'>http://www.stormi.info/emmy-noether/#.XZ9KkkYzZPY</a>
+Todo per un one liner code che esporta in google calendar <a href='https://docs.python.org/3/library/calendar.html'>https://docs.python.org/3/library/calendar.html</a>
+
+> Stela Cole - Goldrush <a href='https://youtube.com/watch?v=piG9ufmDpAE'>https://youtube.com/watch?v=piG9ufmDpAE</a>
