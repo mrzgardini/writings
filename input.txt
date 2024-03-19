@@ -1,12 +1,1 @@
-Aggiornamenti di sicurezza Apple
-(AL01/240306/CSIRT-ITA)
-
-Apple ha rilasciato aggiornamenti di sicurezza per sanare 4 vulnerabilità in iOS e iPadOS, di cui 2 di tipo 0-day.
-
-Note: il vendor afferma che le CVE-2024-23225 e CVE-2024-23296 risultano essere sfruttate attivamente in rete.
-csirt <a href='https://www.csirt.gov.it/contenuti/aggiornamenti-di-sicurezza-apple-al01-240306-csirt-ita'>https://www.csirt.gov.it/contenuti/aggiornamenti-di-sicurezza-apple-al01-240306-csirt-ita</a>
-
-A memory corruption issue was addressed with improved validation. This issue is fixed in iOS 16.7.6 and iPadOS 16.7.6, iOS 17.4 and iPadOS 17.4. An attacker with arbitrary kernel read and write capability may be able to bypass kernel memory protections. Apple is aware of a report that this issue may have been exploited.
-cve <a href='https://www.cve.org/CVERecord?id=CVE-2024-23225'>https://www.cve.org/CVERecord?id=CVE-2024-23225</a>
-
-> Jennifer Lopez - This time around <a href='https://youtube.com/watch?v=w7cWwOcsUZc'>https://youtube.com/watch?v=w7cWwOcsUZc</a>
+Apple tratta con Google per le capacità IA sull’iPhone <a href='https://www.ilsole24ore.com/art/apple-tratta-google-le-capacita-ia-sull-iphone-AFQKNi5C'>https://www.ilsole24ore.com/art/apple-tratta-google-le-capacita-ia-sull-iphone-AFQKNi5C</a>
