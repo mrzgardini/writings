@@ -1,2 +1,1 @@
-Amalie Emmy Noether was born in Erlangen, Germany. An algebraist, she advanced the theory of rings and ideals and helped establish the theory of modules and algebras.
-maa
+Synthetic Data Applications in Finance <a href='https://arxiv.org/pdf/2401.00081.pdf'>https://arxiv.org/pdf/2401.00081.pdf</a>
