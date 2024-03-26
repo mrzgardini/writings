@@ -1,1 +1,1 @@
-MATLAB arithmetic expands in R2016b. <a href='https://blogs.mathworks.com/loren/2016/10/24/matlab-arithmetic-expands-in-r2016b/'>https://blogs.mathworks.com/loren/2016/10/24/matlab-arithmetic-expands-in-r2016b/</a>
+Proof Poincaré recurrence theorem (strong form). <a href='https://www.reddit.com/r/learnmath/comments/1bollml/proof_poincar%C3%A9_recurrence_theorem_strong_form/'>https://www.reddit.com/r/learnmath/comments/1bollml/proof_poincar%C3%A9_recurrence_theorem_strong_form/</a>
