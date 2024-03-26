@@ -1,1 +1,1 @@
-Il filone di ricerca che sta prendendo il ml che mi piace: Learning the greatest common divisor: explaining transformer predictions. Grazie a Yann LeCun per la dritta su questo lavoro. <a href='https://arxiv.org/pdf/2308.15594.pdf'>https://arxiv.org/pdf/2308.15594.pdf</a>
+Lettura del mattino fresca fresca di stampa. <a href='https://github.com/facebookresearch/GCD/blob/main/src/envs/arithmetic.py'>https://github.com/facebookresearch/GCD/blob/main/src/envs/arithmetic.py</a>
