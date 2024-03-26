@@ -1,1 +1,1 @@
-Core-SVP Hardness of Kyber <a href='https://crypto.stackexchange.com/questions/111220/core-svp-hardness-of-kyber'>https://crypto.stackexchange.com/questions/111220/core-svp-hardness-of-kyber</a>
+Lax-type pairs in the theory of bivariate orthogonal polynomials <a href='https://arxiv.org/pdf/2311.05949.pdf'>https://arxiv.org/pdf/2311.05949.pdf</a>
