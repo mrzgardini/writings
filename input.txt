@@ -1,1 +1,1 @@
-Zero day initiative (Yep, la conosco da taaanto). <a href='https://twitter.com/thezdi/status/1770969952863793318'>https://twitter.com/thezdi/status/1770969952863793318</a>
+An Implicit GNN Solver for Poisson-like Problems. <a href='https://arxiv.org/pdf/2302.10891.pdf'>https://arxiv.org/pdf/2302.10891.pdf</a>
