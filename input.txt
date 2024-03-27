@@ -1,1 +1,2 @@
-An Implicit GNN Solver for Poisson-like Problems. <a href='https://arxiv.org/pdf/2302.10891.pdf'>https://arxiv.org/pdf/2302.10891.pdf</a>
+Premio Abel 2024 a Michel Talagrand.
+Maurizio Codogno <a href='https://xmau.com/wp/notiziole/2024/03/27/premio-abel-2024-a-michel-talagrand/'>https://xmau.com/wp/notiziole/2024/03/27/premio-abel-2024-a-michel-talagrand/</a>
