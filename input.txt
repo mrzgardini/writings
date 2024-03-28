@@ -1,1 +1,1 @@
-Use Python Pandas DataFrames in MATLAB. <a href='https://it.mathworks.com/help/matlab/matlab_external/python-pandas-dataframes.html'>https://it.mathworks.com/help/matlab/matlab_external/python-pandas-dataframes.html</a>
+Il modello di Gompertz per la crescita di popolazioni. <a href='https://maddmaths.simai.eu/divulgazione/rubriche/la-lente-matematica/modello-di-gompertz/'>https://maddmaths.simai.eu/divulgazione/rubriche/la-lente-matematica/modello-di-gompertz/</a>
