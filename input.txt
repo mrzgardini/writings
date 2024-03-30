@@ -1,1 +1,1 @@
-Debian e Ibm sono al lavoro per il downgrade sui computer di mezzo pianeta. <a href='https://twitter.com/csirt_it/status/1774001288637722733'>https://twitter.com/csirt_it/status/1774001288637722733</a>
+Cose interessanti sulla questione CVE-2024-3094. Le informazioni su Libera di Jia Tan indicano che si è registrato il ​​12 dicembre 2022 senza informazioni sul fuso orario (Red flag a bombazza proprio). Libera ha dichiarato di non aver ancora ricevuto richieste di informazioni da alcuna agenzia d'intelligence. Jia Tan stava utilizzando una vpn per connettersi.
