@@ -1,4 +1,2 @@
-Whole-body simulation of realistic fruit fly locomotion with deep reinforcement learning.
-Google deepmind <a href='https://www.biorxiv.org/content/10.1101/2024.03.11.584515v1.full.pdf'>https://www.biorxiv.org/content/10.1101/2024.03.11.584515v1.full.pdf</a>
-
-> Lost kings - Try <a href='https://youtube.com/watch?v=w9ql6cSe8oU'>https://youtube.com/watch?v=w9ql6cSe8oU</a>
+Methods for shrinking covariance matrices using a cosine similarity target.
+Bloomberg <a href='https://github.com/bloomberg/semantic-similarity-covariance-shrinkage'>https://github.com/bloomberg/semantic-similarity-covariance-shrinkage</a>
