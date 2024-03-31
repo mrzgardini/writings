@@ -1,1 +1,1 @@
-ELITEWOLF_SNORT_AllenBradley_RockwellAutomation.txt <a href='https://github.com/nsacyber/ELITEWOLF/blob/master/ELITEWOLF_SNORT_AllenBradley_RockwellAutomation.txt'>https://github.com/nsacyber/ELITEWOLF/blob/master/ELITEWOLF_SNORT_AllenBradley_RockwellAutomation.txt</a>
+This Python training is for JPMorgan business analysts and traders, as well as select clients. <a href='https://github.com/jpmorganchase/python-training'>https://github.com/jpmorganchase/python-training</a>
