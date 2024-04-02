@@ -1,10 +1,1 @@
-Quello di cui mi occupo per i pochi che se la filano.
-
-Giustificazione meta-induttiva
-
-Giustificazione induttiva dell'induzione: l'induzione ha avuto successo nel passato, quindi per induzione avrà successo in futuro.
-Giustificazione controinduttiva della controinduzione: la controinduzione non ha avuto successo in passato, quindi grazie alla controinduzione avrà successo in futuro.
-
-Vi lascio la notazione formale e trovare qualche uso nella quotidianità a voi. Good luck!
-
-> MØ - Blur  <a href='https://www.youtube.com/watch?v=72DX9q_LCuw'>https://www.youtube.com/watch?v=72DX9q_LCuw</a>
+l 9 aprile a Roma sarà presentato il secondo numero del Techincal Paper. Titolo dello studio: “Elementi metodologici per l’analisi della mobilità delle persone attraverso l’uso di big data”. La conferenza anche in diretta streaming sul canale Youtube del Gruppo FS. <a href='https://www.fsitaliane.it/content/fsitaliane/it/centro-studi/studi-e-ricerche/presentazione-technical-papers-fs-research-centre.html'>https://www.fsitaliane.it/content/fsitaliane/it/centro-studi/studi-e-ricerche/presentazione-technical-papers-fs-research-centre.html</a>
