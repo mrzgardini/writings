@@ -1,6 +1,3 @@
-This package provides a lean implementation of Morlet wavelets designed for power-spectral analysis of M/EEG resting-state signals.
-Distinct frequency-domain parametrization of Morlet wavelets.
-Established spectral M/EEG metrics share same wavelet convolutions.
-Harmonized & tested Python and MATLAB implementation numerically equivalent.
-Comprehensive mathematical documentation.
-Hoffmann-La Roche <a href='https://github.com/Roche/neuro-meeglet'>https://github.com/Roche/neuro-meeglet</a>
+Lo uso con scihub, libgen e anna's archive. Filecoin Foundation and Lockheed Martin Bring Decentralized Storage to Space. <a href='https://filecoinfoundation.medium.com/filecoin-foundation-and-lockheed-martin-bring-decentralized-storage-to-space-db9a15e66264'>https://filecoinfoundation.medium.com/filecoin-foundation-and-lockheed-martin-bring-decentralized-storage-to-space-db9a15e66264</a>
+
+> > Kings of leon - Sex on fire <a href='https://youtube.com/watch?v=RF0HhrwIwp0'>https://youtube.com/watch?v=RF0HhrwIwp0</a>
