@@ -1,1 +1,6 @@
-Yvette Cendes. <a href='https://twitter.com/whereisyvette/status/1772972648244404394'>https://twitter.com/whereisyvette/status/1772972648244404394</a>
+This package provides a lean implementation of Morlet wavelets designed for power-spectral analysis of M/EEG resting-state signals.
+Distinct frequency-domain parametrization of Morlet wavelets.
+Established spectral M/EEG metrics share same wavelet convolutions.
+Harmonized & tested Python and MATLAB implementation numerically equivalent.
+Comprehensive mathematical documentation.
+Hoffmann-La Roche <a href='https://github.com/Roche/neuro-meeglet'>https://github.com/Roche/neuro-meeglet</a>
