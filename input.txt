@@ -1,1 +1,1 @@
-Super! <a href='https://github.com/gchq/CyberChef/commit/c35557aea52046228af7c545cf05337c6245e087'>https://github.com/gchq/CyberChef/commit/c35557aea52046228af7c545cf05337c6245e087</a>
+Puzzle game: Prediction and Classification of Wordle Solution Words. <a href='https://arxiv.org/pdf/2403.19433.pdf'>https://arxiv.org/pdf/2403.19433.pdf</a>
