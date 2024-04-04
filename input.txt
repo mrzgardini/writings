@@ -1,1 +1,1 @@
-Puzzle game: Prediction and Classification of Wordle Solution Words. <a href='https://arxiv.org/pdf/2403.19433.pdf'>https://arxiv.org/pdf/2403.19433.pdf</a>
+Forecasting Electricity Market Signals via Generative AI. <a href='https://arxiv.org/pdf/2403.05743.pdf'>https://arxiv.org/pdf/2403.05743.pdf</a>
