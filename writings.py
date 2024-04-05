@@ -8,7 +8,7 @@ b = a.readlines()
 c = open('writings/input.txt', 'r')
 d = c.read()
 e = re.sub(f'\n', f'<br> ', d)
-f = '\n<div' + ' ' + 'id=\'' + timestamp + '\'>\n' + '<p style=\'font-size:10px\'>\n' + timestamp + '\n</p>\n' + '<p>\n' + e + '\n</p>\n</div>\n<br>\n\n'
+f = '\n<div class='data'' + ' ' + 'id=\'' + timestamp + '\'>\n' + timestamp + '\n' + '<div>\n' + e + '\n</div>\n</div>\n<br>\n\n'
 b[51] += f
 h = open('mrzgardini.github.io/writings/index.htm', 'w')
 h.writelines(b)
