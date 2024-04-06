@@ -1,1 +1,2 @@
-Approximating the set of Nash equilibria for convex games. <a href='https://arxiv.org/pdf/2310.04176.pdf'>https://arxiv.org/pdf/2310.04176.pdf</a>
+To iterate is human, to recurse divine.
+Peter Deutsch
