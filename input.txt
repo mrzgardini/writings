@@ -1,1 +1,1 @@
-> Olivia O'Brien - Sociopath <a href='https://youtube.com/watch?v=H-rdZfseoDU'>https://youtube.com/watch?v=H-rdZfseoDU</a>
+Approximating the set of Nash equilibria for convex games. <a href='https://arxiv.org/pdf/2310.04176.pdf'>https://arxiv.org/pdf/2310.04176.pdf</a>
