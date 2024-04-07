@@ -1,1 +1,1 @@
-Right- or left-handed? Protein in embryo cells might help decide. <a href='https://www.nature.com/articles/d41586-024-00977-x'>https://www.nature.com/articles/d41586-024-00977-x</a>
+Why Functional Programming Matters. <a href='https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf'>https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf</a>
