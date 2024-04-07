@@ -1,1 +1,1 @@
-Enzo Mari <a href='https://share.riseup.net/#kCBPY93f3hoqtyAEmcd_Kg'>https://share.riseup.net/#kCBPY93f3hoqtyAEmcd_Kg</a>
+Supervised Autoencoder MLP for Financial Time Series Forecasting. <a href='https://arxiv.org/pdf/2404.01866.pdf'>https://arxiv.org/pdf/2404.01866.pdf</a>
