@@ -1,1 +1,1 @@
-Dannato 1439!
+scRDiT: Generating single-cell RNA-seq data by diffusion transformers and accelerating sampling. <a href='https://arxiv.org/pdf/2404.06153.pdf'>https://arxiv.org/pdf/2404.06153.pdf</a>
