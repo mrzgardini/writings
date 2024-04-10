@@ -1,1 +1,1 @@
-Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion. <a href='https://arxiv.org/pdf/2403.07721.pdf'>https://arxiv.org/pdf/2403.07721.pdf</a>
+Text mining arXiv: a look through quantitative finance papers. <a href='https://arxiv.org/pdf/2401.01751.pdf'>https://arxiv.org/pdf/2401.01751.pdf</a>
