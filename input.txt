@@ -1,1 +1,1 @@
-Stable developmental patterns of gene expression without morphogen gradient. <a href='https://arxiv.org/pdf/2306.00537.pdf'>https://arxiv.org/pdf/2306.00537.pdf</a>
+A parte che sono riuscito nell'impresa di farmi bombardare di warning da python vanilla, ditemi che non sono il solo a maneggiare i vettori bidimensionali come dei simpatici piani cartesiani.
