@@ -1,1 +1,1 @@
-> n4rc0t1c _ Liquido <a href='https://youtube.com/watch?v=0W6J01rBU6I'>https://youtube.com/watch?v=0W6J01rBU6I</a>
+Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion. <a href='https://arxiv.org/pdf/2403.07721.pdf'>https://arxiv.org/pdf/2403.07721.pdf</a>
