@@ -1,1 +1,1 @@
-Computing the Eclipse: Astronomy in the Wolfram Language. <a href=' https://writings.stephenwolfram.com/2024/03/computing-the-eclipse-astronomy-in-the-wolfram-language/'> https://writings.stephenwolfram.com/2024/03/computing-the-eclipse-astronomy-in-the-wolfram-language/</a>
+Chi ha letto il Vanderplas per data science sa dirmi se usa la notazione non deprecata nella parte pandas? Ho l'edizione dell'anno scorso.
