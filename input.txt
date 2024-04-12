@@ -1,1 +1,1 @@
-Per carità non fatevi intortare dalla retorica del tutti vogliono il bene. Teorema valido in dimensione 1, già alla 2 la cosa diventa complessa.
+StockGPT: A GenAI Model for Stock Prediction and Trading. <a href='https://arxiv.org/pdf/2404.05101.pdf'>https://arxiv.org/pdf/2404.05101.pdf</a>
