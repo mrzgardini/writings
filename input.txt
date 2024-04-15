@@ -1,1 +1,20 @@
-Mezz'oretta di trade e non so come stia andando, secondo me male. 'La vera logica di questo mondo è nel calcolo delle probabilità.' James Clerk Maxwell.
+Orbene 15 vendite a seguito di un compra, fortuna sono in testnet. Non vado a vedere il wallet come è conciato per la vergogna.
+<pre>
+BUY 5.0
+SELL 6.0
+SELL 7.0
+SELL 8.0
+SELL 9.0
+SELL 10.0
+SELL 11.0
+SELL 12.0
+SELL 13.0
+SELL 14.0
+SELL 15.0
+SELL 16.0
+SELL 17.0
+SELL 18.0
+SELL 19.0
+SELL 20.0
+</pre>
+La cosa buona è il conteggio incrementale delle operazioni corretto, le operazioni sono sbagliate perchè calcolate su medie mobili nulle. Devo aggiungere un qualche if. Damn!
