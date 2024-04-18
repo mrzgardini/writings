@@ -1,1 +1,1 @@
-Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training. <a href='https://arxiv.org/pdf/2404.10555.pdf'>https://arxiv.org/pdf/2404.10555.pdf</a>
+Recommender Systems in Financial Trading: Using machine-based conviction analysis in an explainable AI investment framework. <a href='https://arxiv.org/pdf/2404.11080.pdf'>https://arxiv.org/pdf/2404.11080.pdf</a>
