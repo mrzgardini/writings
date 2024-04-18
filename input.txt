@@ -1,1 +1,1 @@
-Mind-to-Image: Projecting Visual Mental Imagination of the Brain from fMRI. <a href='https://arxiv.org/pdf/2404.05468.pdf'>https://arxiv.org/pdf/2404.05468.pdf</a>
+Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training. <a href='https://arxiv.org/pdf/2404.10555.pdf'>https://arxiv.org/pdf/2404.10555.pdf</a>
