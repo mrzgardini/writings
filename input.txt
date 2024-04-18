@@ -1,1 +1,3 @@
-Recommender Systems in Financial Trading: Using machine-based conviction analysis in an explainable AI investment framework. <a href='https://arxiv.org/pdf/2404.11080.pdf'>https://arxiv.org/pdf/2404.11080.pdf</a>
+<img class='center' src='https://m.media-amazon.com/images/I/81QxFxkOhVL._AC_UF1000,1000_QL80_FMwebp_.jpg'></img>
+È vigilia di giorno di San Giorgio. E non sapete voi che a mezzanotte in punto forze malefiche di mondo hanno pieno potere? Voi non sapete dove andate, e verso che cosa?
+Bram Stoker, Dracula, Feltrinelli, 2015.
