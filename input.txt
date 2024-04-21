@@ -1,1 +1,1 @@
-On the relationship between predictive coding and backpropagation. <a href='https://arxiv.org/pdf/2106.13082.pdf'>https://arxiv.org/pdf/2106.13082.pdf</a>
+Generalized biomolecular modeling and design with RoseTTAFold All-Atom. <a href='https://www.science.org/doi/pdf/10.1126/science.adl2528'>https://www.science.org/doi/pdf/10.1126/science.adl2528</a>
