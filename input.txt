@@ -1,1 +1,1 @@
-MolTailor: Tailoring Chemical Molecular Representation to Specific Tasks via Text Prompts. <a href='https://arxiv.org/pdf/2401.11403.pdf'>https://arxiv.org/pdf/2401.11403.pdf</a>
+Propagation of a carbon price in a credit portfolio through macroeconomic factors. <a href='https://arxiv.org/pdf/2307.12695.pdf'>https://arxiv.org/pdf/2307.12695.pdf</a>
