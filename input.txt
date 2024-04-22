@@ -1,2 +1,1 @@
-La censura, come la soluzione di un’equazione matematica, non esiste senza il suo insieme di definizione. La censura esiste in un certo tempo e in un certo spazio politico. 
-Chiara Valerio
+Functional correctness proved for AArch64. <a href='https://sel4.systems/news/#aarch64-fc'>https://sel4.systems/news/#aarch64-fc</a>
