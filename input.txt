@@ -1,1 +1,1 @@
-Approximating the set of Nash equilibria for convex games. <a href='https://arxiv.org/pdf/2310.04176.pdf'>https://arxiv.org/pdf/2310.04176.pdf</a>.
+Generalized Lotka-Volterra Systems with Time Correlated Stochastic Interactions. <a href='https://arxiv.org/pdf/2307.02851.pdf'>https://arxiv.org/pdf/2307.02851.pdf</a>.
