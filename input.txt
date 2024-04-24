@@ -1,1 +1,1 @@
-Generalized Lotka-Volterra Systems with Time Correlated Stochastic Interactions. <a href='https://arxiv.org/pdf/2307.02851.pdf'>https://arxiv.org/pdf/2307.02851.pdf</a>.
+Rob Joyce - State of the hack 2023 <a href='https://youtube.com/watch?v=v-XJZU_o3eo'>'https://youtube.com/watch?v=v-XJZU_o3eo</a>.
