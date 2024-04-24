@@ -1,3 +1,1 @@
-'Figlio, or vedi
-L’anime di color cui vinse l’ira:'.
-Dante Alighieri, Divina commedia, Inferno, 1321.
+Approximating the set of Nash equilibria for convex games. <a href='https://arxiv.org/pdf/2310.04176.pdf'>https://arxiv.org/pdf/2310.04176.pdf</a>.
