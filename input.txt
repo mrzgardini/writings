@@ -1,1 +1,1 @@
-Exploiting a Classic Deserialization Vulnerability in Siemens SIMATIC Energy Manager. <a href='https://claroty.com/team82/research/exploiting-a-classic-deserialization-vulnerability-in-siemens-simatic-energy-manager'>https://claroty.com/team82/research/exploiting-a-classic-deserialization-vulnerability-in-siemens-simatic-energy-manager</a>.
+Latency numbers every frontend developer should know. <a href='https://vercel.com/blog/latency-numbers-every-web-developer-should-know'>https://vercel.com/blog/latency-numbers-every-web-developer-should-know</a>.
