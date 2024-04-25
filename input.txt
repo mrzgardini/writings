@@ -1,1 +1,10 @@
-Detection of circular permutations by Protein Language Models.<a href='https://arxiv.org/pdf/2404.15087.pdf'>https://arxiv.org/pdf/2404.15087.pdf</a>.
+'È tutto ciò che ho da portare oggi -
+questo, e il mio cuore insieme -
+questo, e il mio cuore, e tutti i campi -
+e l’immensa distesa dei prati.
+Non sbagliare il conto -
+se per caso mi dimenticassi -
+qualcuno direbbe la somma.
+Questo, e il mio cuore, e tutte le api
+che sul trifoglio indugiano.'
+Emily Dickinson, Poesie, Giunti, 2006.
