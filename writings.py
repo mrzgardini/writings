@@ -9,14 +9,14 @@ c = open('writings/input.txt', 'r')
 d = c.read()
 e = re.sub(f'\n', f'<br> ', d)
 f = '\n<div class=\'data\'' + ' ' + 'id=\'' + timestamp + '\'>\n' + timestamp + '\n' + '</div>\n<div>\n' + e + '\n</div>\n<br>\n\n'
-b[56] += f
+b[55] += f
 h = open('mrzgardini.github.io/writings/index.htm', 'w')
 h.writelines(b)
 h.close()
 i = open('mrzgardini.github.io/writings/feed.xml', 'r')
 l = i.readlines()
 m = '\n<item>\n' + '<description>\n' + '<![CDATA[' + d + ']]>' + '\n</description>\n' + '<link>\n' + 'https://mrzgardini.github.io/writings/index.htm#' + timestamp + '\n</link>\n</item>\n\n'
-l[3] += m
+l[4] += m
 n = open('mrzgardini.github.io/writings/feed.xml', 'w')
 n.writelines(l)
 n.close()
