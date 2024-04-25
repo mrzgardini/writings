@@ -1,1 +1,1 @@
-Latency numbers every frontend developer should know. <a href='https://vercel.com/blog/latency-numbers-every-web-developer-should-know'>https://vercel.com/blog/latency-numbers-every-web-developer-should-know</a>.
+Detection of circular permutations by Protein Language Models.<a href='https://arxiv.org/pdf/2404.15087.pdf'>https://arxiv.org/pdf/2404.15087.pdf</a>.
