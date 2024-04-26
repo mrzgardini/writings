@@ -1,1 +1,1 @@
-Nel nuovo blog della Devi Parikh, esperta d'ia in forza presso meta e la Georgia tech, ho scoperto finalmente una buona logica per i colori da usare nel calendario. Allora, a parte che mette in calendario pure blocchi per quando mangiare e dormire, che sono in verde, usa il blu per le riunioni e il rosso per le cose da fare.
+Analysis of market efficiency in main stock markets: using Karman-Filter as an approach. <a href='https://arxiv.org/pdf/2404.16449'>https://arxiv.org/pdf/2404.16449</a>.
