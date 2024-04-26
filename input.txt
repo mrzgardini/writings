@@ -1,1 +1,1 @@
-Simo Ryo, della Korea advanced institute of science and technology, ha compresso lo stra famoso dataset imagenet da 138 gigabyte in appena 5. Una maestosa compressione 26x raggiunta con vari trick che permette di calcolarci sopra pure da un apple watch.
+Alla rsa conference 2024 alla nsa, col suo classico State of the hack, si aggiungono le squadre cyber dell'fbi (quelle che hanno bucato tor per intenderci).
