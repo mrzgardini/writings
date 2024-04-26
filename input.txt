@@ -1,1 +1,1 @@
-Analysis of market efficiency in main stock markets: using Karman-Filter as an approach. <a href='https://arxiv.org/pdf/2404.16449'>https://arxiv.org/pdf/2404.16449</a>.
+Exact analytical algorithm for solvent accessible surface area and derivatives in implicit solvent molecular simulations on GPUs. <a href='https://arxiv.org/pdf/2401.10462'>https://arxiv.org/pdf/2401.10462</a>.
