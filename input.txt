@@ -1,1 +1,1 @@
-Continuando l'epopea di sistemare i miei bookmark del browser. Una chicca: <a href='https://www.intelligencecareers.gov/nsa/diversity-and-inclusion'>https://www.intelligencecareers.gov/nsa/diversity-and-inclusion</a>.
+Un'applicazione web della novartis di tipo shiny (una funzionalità in quarto della posit) per addizionare 3 numeri graficamente: <a href='https://tidymodules.shinyapps.io/1_simple_addition/'>https://tidymodules.shinyapps.io/1_simple_addition/</a>.
