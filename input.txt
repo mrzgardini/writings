@@ -1,1 +1,1 @@
-Bell Boeing v-22 osprey degli United States marine corps in operazione notturna. <a href='https://twitter.com/DeptofDefense/status/1784674446294274361'>https://twitter.com/DeptofDefense/status/1784674446294274361</a>.
+Fa il reflow del testo (il termine tecnico per dire che ingrandisce il carattere) dei pdf a due colonne o meno con le formule o meno, per leggerli comodamente da telefonino (o kindle): <a href='https://packages.debian.org/sid/k2pdfopt'>https://packages.debian.org/sid/k2pdfopt</a>.
