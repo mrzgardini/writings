@@ -1,13 +1,1 @@
-'Nella prima cosa che ho letto in cirillico, di Dostoevskij, c'è una balla.
-[...]
-È un pezzetto che si trova in un libro che si intitola Teksty i risunki (Testi e disegni), pubblicato a Mosca nel 1989 dalla casa editrice Russkij jazyk (Lingua russa), libro destinato agli studenti di russo.
-Si tratta di una nota che Dostoevskij ha lasciato il 31 gennaio del 1873 nell'album dei ricordi di Ol'ga Aleksandrovna Kozlova, una sua conoscente di Pietroburgo.
-[...]
-'Presto avrò cinquant'anni, e ancora non sono riuscito a stabilire: sta per ﬁnire, la mia vita, o è appena cominciata?'
-[...]
-Bellissime parole, e vere, probabilmente.
-La balla, o menzogna, riguarda i numeri. Dostoevskij è nato il 30 ottobre (nel calendario giuliano, quello in vigore in Russia, in quello gregoriano sarebbe l'11 novembre) del 1821, quindi il 31 gennaio del 1873 non aveva quarantanove anni, ne aveva cinquantuno.
-[...]
-A me, tra l'altro, le balle, le menzogne, piacciono, un po' di anni fa ho cominciato un quadernetto dove volevo scrivere tutte le balle che raccontavo perché avevo l'impressione che mi avrebbero detto qualcosa su com'ero. L'ho tenuto per un po', e la maggior parte delle balle che
-raccontavo riguardava il prezzo delle cose che compravo.'
-Paolo Nori, Sanguina ancora, L'incredibile vita di Fëdor Michajlovic Dostoevskij, Mondadori, 2021.
+Chinese threat actor engaged in multi-year DNS resolver probing effort. <a href='https://www.csoonline.com/article/2096774/chinese-threat-actor-engaged-in-multi-year-dns-resolver-probing-effort.html'>https://www.csoonline.com/article/2096774/chinese-threat-actor-engaged-in-multi-year-dns-resolver-probing-effort.html</a>.
