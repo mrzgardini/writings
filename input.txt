@@ -1,2 +1,1 @@
-'Allies recognize that Germany and Czechia have attributed the responsibility of the malicious cyber activities in their respective countries to the threat actor APT28 sponsored by the Russian Federation, specifically the Russian General Staff Main Intelligence Directorate (GRU).'
-Nato.
+Meditron: An LLM suite especially suited for low-resource medical settings leveraging Meta Llama. <a href='https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/'>https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/</a>.
