@@ -1,1 +1,1 @@
-Il mio umore quando leggo i paper sulla topologia che stanno girando tra gli analisti dell'Agenzia. <a href='https://youtube.com/watch?v=lrviWgYgwH0'>https://youtube.com/watch?v=lrviWgYgwH0</a>.
+Quoto il prof. Martin, abbiamo bisogno che il linguaggio lean di microsoft aggiunga il supporto alla teoria delle categorie per le dimostrazioni non come lib.
