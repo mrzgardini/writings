@@ -1,1 +1,1 @@
-Stavo leggendo alcuni ragazzi cinesi che per un lavoro di ml dividono una serie temporale X in una componente periodica <div class='math'>P(t)</div> e una di trend <div class='math'>T(t)</div> tale che <div class='math'>X(t) = P(t) + T(t)</div>. Figo.
+> Justin Caruso - No eyes on me <a href='https://youtube.com/watch?v=KdXjAvo4-WU'>https://youtube.com/watch?v=KdXjAvo4-WU</a>
