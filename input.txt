@@ -1,1 +1,1 @@
-David Weston - A message from microsoft. <a href='https://youtube.com/watch?v=u1FUoYmMBBc'>https://youtube.com/watch?v=u1FUoYmMBBc</a>.
+The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA. <a href='https://arxiv.org/pdf/2405.00949'>https://arxiv.org/pdf/2405.00949</a>.
