@@ -1,1 +1,1 @@
-'The war in Sudan continues to force millions from their homes. The country is facing a humanitarian catastrophe of epic proportions.' <a href='https://data.unhcr.org/en/documents/download/107844'>https://data.unhcr.org/en/documents/download/107844</a>.
+Yann LeCun e Jeff Dean stanno litigando sull'efficienza delle reti neurali sotto un post di Andrej Karpathy.
