@@ -1,1 +1,1 @@
-Quoto il prof. Martin, abbiamo bisogno che il linguaggio lean di microsoft aggiunga il supporto alla teoria delle categorie per le dimostrazioni non come lib.
+A Simple and Efficient Algorithm for Finding Minimum Spanning Tree Replacement Edge. <a href='https://jgaa.info/index.php/jgaa/article/view/paper609/2352'>https://jgaa.info/index.php/jgaa/article/view/paper609/2352</a>.
