@@ -1,1 +1,1 @@
-The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA. <a href='https://arxiv.org/pdf/2405.00949'>https://arxiv.org/pdf/2405.00949</a>.
+La Matematica now being indexed in Scopus. <a href='https://link.springer.com/journal/44007/updates/27015800'>https://link.springer.com/journal/44007/updates/27015800</a>.
