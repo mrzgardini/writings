@@ -1,1 +1,1 @@
-Non ricordavo riuscisse ad attaccare win7. <a href='https://en.m.wikipedia.org/wiki/Stuxnet'>https://en.m.wikipedia.org/wiki/Stuxnet</a>.
+Ho risolto un piccolo baco della riga 36 che mi sballava i calcoli della riga 58, la questione è che non ho capito che ho fatto. <a href='https://colab.research.google.com/github/mrzgardini/mrzgardini.github.io/blob/master/writings/documenti/050520241716.ipynb'>https://colab.research.google.com/github/mrzgardini/mrzgardini.github.io/blob/master/writings/documenti/050520241716.ipynb</a>.
