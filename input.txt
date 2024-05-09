@@ -1,1 +1,1 @@
-La cosa interessante è che i problemi paiono emergere con roba compute intensive come il ml per via della precisione. Spacca sempre il paradigma funzionale pythonoso del post. <a href='https://www.jeremykun.com/2024/05/04/fhe-overview/'>https://www.jeremykun.com/2024/05/04/fhe-overview/</a>.
+DPRIVE. <a href='https://www.darpa.mil/program/data-protection-in-virtual-environments'>https://www.darpa.mil/program/data-protection-in-virtual-environments</a>.
