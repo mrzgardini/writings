@@ -1,2 +1,1 @@
-Su un libro ho trovato una definizione carina per un algoritmo di una marubozu: if the close price is greater than the open price, the high price equals the close price, and the low price equals the open price, then print 1 in the next row of the column reserved for buy signals. If the close price is lower than the open price, the high price equals the open price, and the low price equals the close price, then print −1 in the next row of the column reserved for sell signals.
-Anche a voi springerlink da errore 400?
+K-Line Patterns’ Predictive Power Analysis Using the Methods of Similarity Match and Clustering. <a href='https://www.hindawi.com/journals/mpe/2017/3096917/'>https://www.hindawi.com/journals/mpe/2017/3096917/</a>.
