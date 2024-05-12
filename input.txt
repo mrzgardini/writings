@@ -1,1 +1,1 @@
-Studiando come modellizzare un reattore di batteri, sono 5 pagine di formule e codice per un modello banale e arbitrario. Bene.
+Quando ti rendi conto che puoi chiamare la funzione media mobile con un più generico; modello. Happy happy happyyy!
