@@ -1,3 +1,1 @@
-Ah!
-'A Benoît Mandelbrot, un greco tra i romani'.
-Taleb Nassim Nicholas, Il cigno nero: come l'improbabile governa la nostra vita, Il saggiatore, 2015.
+Quando scopri che la scorciatoia per te da pro è tra quelle di base base proprio (ctrl + [ / ] fn pure su jupyter). <a href='https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf'>https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf</a>.
