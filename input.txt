@@ -1,1 +1,1 @@
-Dave Neary. <a href='https://mathstodon.xyz/@dneary/112418958661950505'>https://mathstodon.xyz/@dneary/112418958661950505</a>.
+Mi pare di capire che il più comune di processo per la prova degli algoritmi sia la vettorizzazione del codice, con vettori e matrici calcolate col numpy. Però mi pare interessante anche l'approccio ad eventi, dove il codice è sensibile a nuovi input.
