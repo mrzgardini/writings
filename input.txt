@@ -1,1 +1,68 @@
-Meet the Man Who Proved Roulette Was Beatable. <a href='https://www.bloomberg.com/news/newsletters/2023-04-06/meet-niko-tosa-the-man-who-proved-roulette-was-beatable'>https://www.bloomberg.com/news/newsletters/2023-04-06/meet-niko-tosa-the-man-who-proved-roulette-was-beatable</a>.
+Lavoro mattutino per far tornare i conti ascoltando:
+> Gazzelle - Meglio così https://youtube.com/watch?v=41uqrDbK-m8 (p.s. mi sto appassionando al reggeton)
+<pre>
+from binance.spot import Spot
+import time
+import pandas as pd
+import numpy as np
+spot_client = Spot(base_url = 'https://testnet.binance.vision', api_key = 'OMISSIS', api_secret = 'OMISSIS')
+c_df = pd.DataFrame()
+l = 0
+m = 0
+df['d'] = 0
+df['e'] = 0
+df['f'] = 0
+df['h'] = 0
+df['i'] = 0
+comprato = 0
+def candele():
+    global df
+    # a = spot_client.klines('BTCUSDT', '1m', startTime = 1715482440000, endTime = 1715482680000)
+    a = spot_client.klines('BTCUSDT', '1m')
+    df = pd.DataFrame(a, columns = ['open time', 'open', 'high', 'low', 'close', 'volume', 'close time', 'quote asset volume', 'number of trades', 'taker buy base asset volume', 'taker buy quote asset volume', 'unused'])
+def prezzo():
+    global c_df
+    b = spot_client.avg_price(symbol = 'BTCUSDT')
+    b_df = pd.DataFrame([b])
+    new_names = {'mins': 'interval', 'price': 'close', 'closeTime': 'close time'}
+    b_df = b_df.rename(columns = new_names)
+    new_order = ['close time', 'close', 'interval']
+    b_df = b_df[new_order]
+    c_df = pd.concat([c_df, b_df])
+    c_df.reset_index(inplace = True, drop = True)
+def modello():
+    global l
+    global m
+    global df
+    global y
+    df['x'] = df['close'].rolling(window = 5, min_periods = 5).mean()
+    df['y'] = df['close'].rolling(window = 21, min_periods = 21).mean()
+    df['x'] = df['x'].fillna(0)
+    df['y'] = df['y'].fillna(0)
+    l = l + 1
+    if x == 0:
+        y = x
+        if x > 0:
+            y = x - 1
+    # Se x > y e x < y a t-1 compra
+    if df['x'].loc[x] > df['y'].loc[x]:
+        if df['x'].loc[y] <=  df['y'].loc[y]:
+            df['d'].loc[x] = 1
+            df['e'].loc[x] = l
+    # Se x > y e x > y a t-1 neutro
+    if df['x'].loc[x] > df['y'].loc[x]:
+        if df['x'].loc[y] > df['y'].loc[y]:
+            df['d'].loc[x] = 0
+    # Se x < y e x > y a t-1 vende
+    if df['x'].loc[x] <=  df['y'].loc[x]:  
+        if df['x'].loc[y] > df['y'].loc[y]:
+            df['d'].loc[x] = -1
+            df['e'].loc[x] = l
+    # Se x < y e x < y a t-1 neutro
+    if df['x'].loc[x] <=  df['y'].loc[x]:
+        if df['x'].loc[y] <=  df['y'].loc[y]:
+            df['d'].loc[x] = 0
+# candele()
+for x in range(0, 499):
+    modello()
+</pre>
