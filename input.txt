@@ -1,3 +1,20 @@
-Un modo simpatico per fare na sommatoria:
-<pre>for x in df['w']:
-  y += x</pre>
+La mia funzione per il backtest con la sommatoria. Io felicito.
+<pre>def backtest():
+    global n, o, c_df
+    n = 0
+    o = 0
+    if c_df['d'].loc[x] == 1:
+        c_df['w'].loc[x] = c_df['close'].loc[x]
+    if c_df['d'].loc[x] == -1:
+        c_df['z'].loc[x] = c_df['close'].loc[x]
+    c_df['w'] = c_df['w'].fillna(0)
+    c_df['z'] = c_df['z'].fillna(0)
+    c_df = c_df.astype({'w': 'float', 'z': 'float'})
+    for p in c_df['w']:
+        n += p
+    for p in c_df['z']:
+        o += p</pre>
+<pre>comprato:
+122790.28
+venduto:
+61461.63</pre>
