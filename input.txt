@@ -1,1 +1,3 @@
-GCHQ. <a href='https://twitter.com/GCHQ/status/1790372111342572023'>https://twitter.com/GCHQ/status/1790372111342572023</a>.
+Un modo simpatico per fare na sommatoria:
+<pre>for x in df['w']:
+  y += x</pre>
