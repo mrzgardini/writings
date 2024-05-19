@@ -1,1 +1,1 @@
-Figata. <a href='https://www.google.com/finance/quote/GME:NYSE?window=5D'>https://www.google.com/finance/quote/GME:NYSE?window=5D</a>.
+Prende forma come piace a me: <a href='https://colab.research.google.com/github/mrzgardini/mrzgardini.github.io/blob/master/writings/documenti/130520241757.ipynb'>https://colab.research.google.com/github/mrzgardini/mrzgardini.github.io/blob/master/writings/documenti/130520241757.ipynb</a>.
