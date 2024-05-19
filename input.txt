@@ -1,1 +1,1 @@
-RSA Conference - RSAC Math Award Presentation <a href='https://youtube.com/watch?v=7NrM-jZC3u0'>https://youtube.com/watch?v=7NrM-jZC3u0</a>.
+A decoder-only foundation model for time-series forecasting. <a href='https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/'>https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/</a>.
