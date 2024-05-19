@@ -1,1 +1,1 @@
-We made a local LLM game in 3 weeks using UndreamAI's LLMUnity and OpenHermes 2.5 Mistral 7B. <a href='https://www.reddit.com/r/LocalLLaMA/comments/1cqyit3/we_made_a_local_llm_game_in_3_weeks_using/'>https://www.reddit.com/r/LocalLLaMA/comments/1cqyit3/we_made_a_local_llm_game_in_3_weeks_using/</a>.
+> Sofia Shkidchenko - That's real YODEL <a href='https://youtube.com/watch?v=49uYID_s7nY'>https://youtube.com/watch?v=49uYID_s7nY</a>
