@@ -1,1 +1,1 @@
-A decoder-only foundation model for time-series forecasting. <a href='https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/'>https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/</a>.
+Figata. <a href='https://www.google.com/finance/quote/GME:NYSE?window=5D'>https://www.google.com/finance/quote/GME:NYSE?window=5D</a>.
