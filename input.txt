@@ -1,1 +1,1 @@
-Zero-shot counting with a dual-stream neural network model. <a href='https://arxiv.org/pdf/2405.09953'>https://arxiv.org/pdf/2405.09953</a>.
+<div class='math'>Is there a way to simplify \(\cos^{-1}\left(\frac{\cos x}{A}\right)\)? <a href='https://math.stackexchange.com/questions/4919418/is-there-a-way-to-simplify-cos-1-left-frac-cos-xa-right'>https://math.stackexchange.com/questions/4919418/is-there-a-way-to-simplify-cos-1-left-frac-cos-xa-right</a></div>.
