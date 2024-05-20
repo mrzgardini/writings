@@ -1,1 +1,5 @@
-200520241107.mp4 <a href='https://imgur.com/a/XvkR338'>https://imgur.com/a/XvkR338</a>
+Markov unchained. <a href='https://chalkdustmagazine.com/features/markov-unchained/'>https://chalkdustmagazine.com/features/markov-unchained/</a>.
+
+Diophantine equations are polynomial equations with integer coefficients for which we are interested in finding integer solutions. These equations are named after Diophantus of Alexandria, a third century Greek mathematician, who was interested in finding out whether these equations were soluble in integers.
+These equations have held mathematicians’ interest ever since. In 1900, David Hilbert outlined 23 problems to shape the future of mathematics. The tenth of these was to provide an algorithm, to decide whether a Diophantine equation is solvable in integers.
+In 1970, Matiyasevich proved that a general algorithm was not possible, and now researchers try to solve specific classes of equations.
