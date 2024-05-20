@@ -1,1 +1,1 @@
-Hamilton Morris - The Underground Chemists of South Africa. <a href='https://youtube.com/watch?v=p7FxtfaMSxM'>https://youtube.com/watch?v=p7FxtfaMSxM</a>.
+Zero-shot counting with a dual-stream neural network model. <a href='https://arxiv.org/pdf/2405.09953'>https://arxiv.org/pdf/2405.09953</a>.
