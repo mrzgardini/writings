@@ -1,1 +1,5 @@
-Llama su hf non è niente male: <a href='https://huggingface.co/chat/conversation/nlDDIm2'>https://huggingface.co/chat/conversation/nlDDIm2</a>.
+RAPIDS cuDF Instantly Accelerates pandas up to 50x on Google Colab. <a href='https://developer.nvidia.com/blog/rapids-cudf-instantly-accelerates-pandas-up-to-50x-on-google-colab/'>https://developer.nvidia.com/blog/rapids-cudf-instantly-accelerates-pandas-up-to-50x-on-google-colab/</a>.
+
+While pandas is one of the world’s most popular data processing tools, it struggles as data sizes grow. With even 5 to 10 GB of data, many simple operations can take minutes to finish on the CPU, slowing down exploratory analysis and production data pipelines.
+
+RAPIDS cuDF brings the power of accelerated computing to pandas, so you can continue using pandas as data grows—without compromising performance. The library seamlessly accelerates pandas code on GPUs where applicable, and otherwise falls back to CPU pandas.
