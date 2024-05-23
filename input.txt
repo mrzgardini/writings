@@ -1,5 +1,5 @@
-AlphaFold3 - why did Nature publish it without its code? https://www.nature.com/articles/d41586-024-01463-0
+Ministère des Armées. https://x.com/Armees_Gouv/status/1793554079769096426
 
-Now, DeepMind has partnered with Isomorphic Labs, a London-based drug-development company owned by Google’s parent, Alphabet. In addition to the non-availability of the full code, there are other restrictions on the use of the tool — for example, in drug development. There are also daily limits on the numbers of predictions that individual researchers can perform.
+L'astronaute Sophie Adenot sera la prochaine européenne à s'envoler pour la Station spatiale internationale, en 2026, pour une mission de longue durée. Colonel dans l'Arme de l'air et de l'espace, elle deviendra la 2e astronaute française de l'histoire à partir en orbite, trente ans après Claudie Haigneré.
 
-DeepMind’s vice-president of research, Pushmeet Kohli, posted on the social-media platform X that the team is “working on releasing the AF3 model (incl weights) for academic use” within six months. This is an important step, and Nature will update the published paper once the code is released.
+> AJR - I'm Not Famous. https://youtube.com/watch?v=VkXYjy6sZ2A
