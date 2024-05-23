@@ -9,7 +9,7 @@ c = open('writings/input.txt', 'r')
 d = c.read()
 o = re.sub(r"(https?://[^\s]+)", r'<a href="\1">\1</a>', d)
 e = re.sub(f'\n', f'<br> ', o)
-f = '\n<div class=\'data\'' + ' ' + 'id=\'' + timestamp + '\'>\n' + timestamp + '\n' + '</div>\n<div class=\'text\'\n' + e + '\n</div>\n'
+f = '\n<div class=\'data\'' + ' ' + 'id=\'' + timestamp + '\'>\n' + timestamp + '\n' + '</div>\n<div class=\'text\>'\n' + e + '\n</div>\n'
 b[79] += f
 h = open('mrzgardini.github.io/writings/index.htm', 'w')
 h.writelines(b)
