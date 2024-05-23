@@ -7,9 +7,10 @@ a = open('mrzgardini.github.io/writings/index.htm', 'r')
 b = a.readlines()
 c = open('writings/input.txt', 'r')
 d = c.read()
-e = re.sub(f'\n', f'<br> ', d)
-f = '\n<div class=\'data\'' + ' ' + 'id=\'' + timestamp + '\'>\n' + timestamp + '\n' + '</div>\n<div>\n' + e + '\n</div>\n<br>\n\n'
-b[64] += f
+o = re.sub(r"(https?://[^\s]+)", r'<a href="\1">\1</a>', d)
+e = re.sub(f'\n', f'<br> ', o)
+f = '\n<div class=\'data\'' + ' ' + 'id=\'' + timestamp + '\'>\n' + timestamp + '\n' + '</div>\n<div class=\'text\'>'\n' + e + '\n</div>\n'
+b[79] += f
 h = open('mrzgardini.github.io/writings/index.htm', 'w')
 h.writelines(b)
 h.close()
@@ -20,3 +21,4 @@ l[4] += m
 n = open('mrzgardini.github.io/writings/feed.xml', 'w')
 n.writelines(l)
 n.close()
+
