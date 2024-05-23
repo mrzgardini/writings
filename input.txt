@@ -1,8 +1,5 @@
-Olimpiadi: maggio 2024. <a href='https://umi.dm.unibo.it/2024/05/20/olimpiadi-maggio-2024/'>https://umi.dm.unibo.it/2024/05/20/olimpiadi-maggio-2024/</a>.
+Matlab. <a href='https://x.com/MATLAB/status/1793226550503932156'>https://x.com/MATLAB/status/1793226550503932156</a>.
 
-Maggio e Olimpiadi (della Matematica) sono due termini con tante cose in comune. Hanno le stesse vocali, per esempio. E poi maggio è uno dei mesi centrali dell’anno olimpico.
-La parte da protagonista è sicuramente delle finali nazionali, anche quest’anno a Cesenatico. È stata una grande edizione, in tanti sensi. Ne abbiamo parlato qui per il primo giorno, qui per il secondo giorno e qui per le conclusioni.
+Using Docker containers on Google Cloud, an MIT Professor & his team are changing how students learn mathematical modeling, making complex simulations easy to access & understand.
 
-Ma nei giorni appena precedenti Cesenatico (un po’ a cavallo con aprile, quest’anno) c’è stata la Balkan Mathematical Olympiad, da cui l’Italia è tornata con una medaglia d’oro (Lorenzo Bastioni che poi è stato assieme a Enrico Zonta primo a pari merito alla gara nazionale), quattro bronzi (Matilde Iannaccone, Lorenzo Degli Atti, Simone Melis e Roberto Filippelli) e una menzione d’onore (Alessandro Lombardo).
-
-In questi giorni, infine, si sta svolgendo a Pisa lo stage PreIMO di preparazione e finalizzazione della selezione italiana per le prossime Olimpiadi Internazionali di Matematica (IMO) previste per luglio a Bath, nel Regno Unito. E all’inizio di giugno si ricomincia con il test di ammissione allo stage Senior, con cui a settembre si aprirà il nuovo anno olimpico.
+It's a big step forward in making education more practical & accessible. https://it.mathworks.com/company/mathworks-stories/cloud-based-docker-containers-help-mit-students-with-mathematical-modeling.html.
