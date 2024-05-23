@@ -1,5 +1,5 @@
-Matlab. <a href='https://x.com/MATLAB/status/1793226550503932156'>https://x.com/MATLAB/status/1793226550503932156</a>.
+AlphaFold3 - why did Nature publish it without its code? https://www.nature.com/articles/d41586-024-01463-0
 
-Using Docker containers on Google Cloud, an MIT Professor & his team are changing how students learn mathematical modeling, making complex simulations easy to access & understand.
+Now, DeepMind has partnered with Isomorphic Labs, a London-based drug-development company owned by Google’s parent, Alphabet. In addition to the non-availability of the full code, there are other restrictions on the use of the tool — for example, in drug development. There are also daily limits on the numbers of predictions that individual researchers can perform.
 
-It's a big step forward in making education more practical & accessible. https://it.mathworks.com/company/mathworks-stories/cloud-based-docker-containers-help-mit-students-with-mathematical-modeling.html.
+DeepMind’s vice-president of research, Pushmeet Kohli, posted on the social-media platform X that the team is “working on releasing the AF3 model (incl weights) for academic use” within six months. This is an important step, and Nature will update the published paper once the code is released.
