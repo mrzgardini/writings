@@ -3,3 +3,5 @@ AlphaFold3 - why did Nature publish it without its code? https://www.nature.com/
 Now, DeepMind has partnered with Isomorphic Labs, a London-based drug-development company owned by Google’s parent, Alphabet. In addition to the non-availability of the full code, there are other restrictions on the use of the tool — for example, in drug development. There are also daily limits on the numbers of predictions that individual researchers can perform.
 
 DeepMind’s vice-president of research, Pushmeet Kohli, posted on the social-media platform X that the team is “working on releasing the AF3 model (incl weights) for academic use” within six months. This is an important step, and Nature will update the published paper once the code is released.
+
+1
