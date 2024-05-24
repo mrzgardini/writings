@@ -1,3 +1,4 @@
-Rockwell Automation Encourages Customers to Assess and Secure Public-Internet-Exposed Assets. https://www.cisa.gov/news-events/alerts/2024/05/21/rockwell-automation-encourages-customers-assess-and-secure-public-internet-exposed-assets
+'Se tu hai una mela, e io ho una mela, e ce le scambiamo, allora tu ed io abbiamo sempre una mela per uno. Ma se tu hai un'idea, ed io ho un'idea, e ce le scambiamo, allora abbiamo entrambi due idee.'
+George Bernard Shaw.
 
-Rockwell Automation has released guidance encouraging users to remove connectivity on all Industrial Control Systems (ICS) devices connected to the public-facing internet to reduce exposure to unauthorized or malicious cyber activity.
+> Walk the moon - One foot. https://youtube.com/watch?v=05v4nfUmBYI
