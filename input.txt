@@ -1,4 +1,3 @@
-'Se tu hai una mela, e io ho una mela, e ce le scambiamo, allora tu ed io abbiamo sempre una mela per uno. Ma se tu hai un'idea, ed io ho un'idea, e ce le scambiamo, allora abbiamo entrambi due idee.'
-George Bernard Shaw.
+Meritocracy and Its Discontents: Long-run Effects of Repeated School Admission Reforms. https://arxiv.org/pdf/2402.04429
 
-> Walk the moon - One foot. https://youtube.com/watch?v=05v4nfUmBYI
+What happens if selective colleges change their admission policies? We study this question by analyzing the world's first implementation of nationally centralized meritocratic admissions in the early twentieth century. We find a persistent meritocracy-equity tradeoff. Compared to the decentralized system, the centralized system admitted more high-achievers and produced more occupational elites (such as top income earners) decades later in the labor market. This gain came at a distributional cost, however. Meritocratic centralization also increased the number of urban-born elites relative to rural-born ones, undermining equal access to higher education and career advancement.
