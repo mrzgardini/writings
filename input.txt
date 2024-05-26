@@ -1,1 +1,3 @@
-> Robin Schulz - All We Got https://youtube.com/watch?v=lznH7FZBBYs
+780th Military Intelligence Brigade (Cyber) https://x.com/780thC/status/1793219589234401560
+
+Researchers from Cyble Researchers and Intelligence Labs (CRIL) identified a campaign by Russia's Turla APT that abuses Microsoft Build to deliver TinyTurla Backdoor.
