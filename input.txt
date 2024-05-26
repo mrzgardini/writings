@@ -1,1 +1,5 @@
-Quando dopo anni di jupyter realizzi che può fungere anche da comodo server http e file manager.
+How the Guinness Brewery Invented the Most Important Statistical Method in Science https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/
+
+The Guinness brewery has been known for innovative methods ever since founder Arthur Guinness signed a 9,000-year lease in Dublin for £45 a year. For example, a mathematician-turned-brewer invented a chemical technique there after four years of tinkering that gives the brewery’s namesake stout its velvety head. The method, which involves adding nitrogen gas to kegs and to little balls inside cans of Guinness, led to today’s hugely popular “nitro” brews for beer and coffee.
+
+But the most influential innovation to come out of the brewery by far has nothing to do with beer. It was the birthplace of the t-test, one of the most important statistical techniques in all of science. When scientists declare their findings “statistically significant,” they very often use a t-test to make that determination.
