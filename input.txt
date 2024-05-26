@@ -1,3 +1,1 @@
-Quantitative MRI outcome measures in CMT1A using automated lower limb muscle segmentation https://jnnp.bmj.com/content/95/6/500
-
-Lower limb muscle magnetic resonance imaging (MRI) obtained fat fraction (FF) can detect disease progression in patients with Charcot-Marie-Tooth disease 1A (CMT1A). However, analysis is time-consuming and requires manual segmentation of lower limb muscles. We aimed to assess the responsiveness, efficiency and accuracy of acquiring FF MRI using an artificial intelligence-enabled automated segmentation technique.
+> Robin Schulz - All We Got https://youtube.com/watch?v=lznH7FZBBYs
