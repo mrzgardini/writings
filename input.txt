@@ -1,7 +1,1 @@
-Imperial mathematician wins major prizes for advances in algebraic geometry. https://www.imperial.ac.uk/news/253462/imperial-mathematician-wins-major-prizes-advances/
-
-Using string theory to solve old problems in mathematics
-
-In the world of geometry, mathematicians study surfaces which help bridge abstract theory with the real-world.
-
-Among the surfaces that are interesting to scientists and mathematicians, ‘K3 surfaces’ stand out as particularly fascinating. Named after three mathematicians – Ernst Kummer, Kunihiko Kodaira, and Erich Kähler – and after the mountain K2, K3 surfaces have properties that are rather unique.
+<div class='math'>How do find the derivative of $f(x):=\int_0^{x^2}\cos\left(\pi t^2\right)\operatorname dt$? https://math.stackexchange.com/questions/4922239/how-do-find-the-derivative-of-fx-int-0x2-cos-left-pi-t2-right-operat</div>
