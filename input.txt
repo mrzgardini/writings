@@ -1,3 +1,7 @@
-Quantum Computers on Wall Street https://rjlipton.com/2024/05/22/quantum-computers-on-wall-street/
+Imperial mathematician wins major prizes for advances in algebraic geometry. https://www.imperial.ac.uk/news/253462/imperial-mathematician-wins-major-prizes-advances/
 
-His recent article covers the work of several experts on quantum computing: Quantum Computing Gets Real: It Could Even Shorten Your Airport Connection.
+Using string theory to solve old problems in mathematics
+
+In the world of geometry, mathematicians study surfaces which help bridge abstract theory with the real-world.
+
+Among the surfaces that are interesting to scientists and mathematicians, ‘K3 surfaces’ stand out as particularly fascinating. Named after three mathematicians – Ernst Kummer, Kunihiko Kodaira, and Erich Kähler – and after the mountain K2, K3 surfaces have properties that are rather unique.
