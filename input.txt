@@ -1,13 +1,1 @@
-IBM Hexadecimal Floating Point https://blogs.mathworks.com/cleve/2024/05/25/ibm-hexadecimal-floating-point/
-
-The System/360 hexadecimal format is used in many industries for the preservation of data files.
-
-CREWES. Teaching exploration seismology. Comprehensive MATLAB toolbox for use with the textbook "Numerical Methods of Exploration Seismology with algorithms in Matlab" by Gary F. Margrave, a geoscience professor at the University of Calgary.
-
-Library of Congress. Government.
-
-NASA. Astronautics.
-
-SAS. Statistics and business analytics. SAS wrapers for C.
-
-Enthought. Python wrappers for C.
+Lumbroso "dice roller", analysis to port the algorithm to 32 bit integers https://math.stackexchange.com/questions/4923086/lumbroso-dice-roller-analysis-to-port-the-algorithm-to-32-bit-integers
