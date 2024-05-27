@@ -1,1 +1,3 @@
-Lumbroso "dice roller", analysis to port the algorithm to 32 bit integers https://math.stackexchange.com/questions/4923086/lumbroso-dice-roller-analysis-to-port-the-algorithm-to-32-bit-integers
+Matematica, lezione 15: Catastrofi e caos https://dropseaofulaula.blogspot.com/2024/05/matematica-lezione-15-catastrofi-e-caos.html
+
+A completare il tutto i soliti giochi matematici di Maurizio Codogno, questa volta dedicati al concetto della media, e, soprattutto, una delle biografie per me più attese, quella di Evariste Galois: Sara Zucchini è riuscita splendidamente a rendere omaggio al matematico romantico per eccellenza.
