@@ -1,2 +1,1 @@
-Una foto di Vega di un mio amico: https://imgur.com/a/VWBEHaq
-Ci stiamo scervellando perchè una camera astronomica consumer da 8 megapixel restituisca un jpg da 1,6 megapixel, che whatsapp oltre a codificare il file lo scali pure?
+How to calculate one parameter in SIR model if we know the infinite condition? https://it.mathworks.com/matlabcentral/answers/785931-how-to-calculate-one-parameter-in-sir-model-if-we-know-the-infinite-condition
