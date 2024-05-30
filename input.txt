@@ -1,3 +1,14 @@
-Jupyter Notebook Shortcuts https://ibkrcampus.com/ibkr-quant-news/jupyter-notebook-shortcuts/
+Agency, Audiologist Solve Hearing Aid Security Concern, Get Needed Devices in NSA Spaces https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3790070/agency-audiologist-solve-hearing-aid-security-concern-get-needed-devices-in-nsa/
 
-Shortcuts can prove quite useful in helping you to maintain focus by avoiding some extra scrolling with your mouse. In fact Brainscape claims that just by using keyboard shortcuts alone, you can increase your overall productivity by 3.3%, saving yourself a total of 64 wasted hours in a year. 
+When he upgraded, he didn’t realize it was a problem until he was approached by a colleague wondering about the process for his new device to be approved by NSA Security & Counterintelligence (S&CI).
+
+“Using hearing aids can be second nature, like putting your glasses on. Sometimes you don’t think about the technology behind it,” Joe said. “Many of us [deaf and hard of hearing affiliates] weren’t aware of the security requirements to bring them in NSA buildings.”
+
+Starting in 2019, hearing aids began incorporating “hands-free calling,” a two-way audio Bluetooth technology. The new technology, however, presented an increased security threat to NSA — the potential for the transmission of classified conversations outside of a Sensitive Compartmented Information Facility (SCIF).
+
+The issue with hearing aid technological improvements eventually brought together a number of stakeholders — including NSA Security & Counterintelligence (S&CI), NSA Research, and a Walter Reed Medical Center audiologist with close ties to the Veterans Administration (VA).
+
+One of the biggest challenges with assessing medical devices with two-way audio Bluetooth is that most of the information about the devices is proprietary, according to Stephanie P, Internet of Things (IoT) Security team lead for LACR’s Trust Mechanisms office.
+
+In early 2023, the Agency announced it would allow this company’s Bluetooth hearing aids in SCIFs after going through the approval process.
+The challenge of these two-way audio Bluetooth medical devices isn’t limited to NSA, according to Heather, who has been partnering with Office of the Director of National Intelligence (ODNI) to address concerns across the Intelligence Community.
