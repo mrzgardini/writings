@@ -1,1 +1,1 @@
-Python compilato in meno di 5 minuti sulla mia macchina con 8 giga di ram e un celeron a raffreddamento passivo; un po' di magia nera con le versioni di python, un po' di magia nera con i kernel di jupyter, le mie versioni di mathematica e matlab accessibili da python su debian 12. Yeee!
+'Non studio non lavoro non guardo la tv non vado al cinema non faccio sport'. https://youtube.com/watch?v=D1XGtVv2Lm8
