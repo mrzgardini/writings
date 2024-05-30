@@ -1,7 +1,3 @@
-Robot Mitsubishi risolve il cubo di Rubik in 0,305 secondi: nuovo record mondiale, il video https://www.geopop.it/robot-mitsubishi-risolve-il-cubo-di-rubik-in-0305-secondi-nuovo-record-mondiale-il-video/
+Jupyter Notebook Shortcuts https://ibkrcampus.com/ibkr-quant-news/jupyter-notebook-shortcuts/
 
-Per raggiungere un tempo così basso la macchina è stata progettata per effettuare ogni rotazione di 90° in soli 0,009 secondi.
-
-Ovviamente muoversi in modo rapido non è sufficiente: è necessario ottenere anche un altissimo livello di precisione, visto che anche il minimo disallineamento tra le facce potrebbe inceppare le rotazioni, vanificando il tentativo di ottenere un record. Per farlo sono state implementate le stesse tecnologie che l'azienda utilizza normalmente per posizionare i fili all'interno delle bobine di accensione per motori.
-
-Ottenere un tempo di soli 0,305 secondi comunque è arduo anche per una macchina: pensate che nel 2009 il record era di 1 minuto e 9 secondi e si riuscì ad arrivare a 0,38 secondi solo nel 2018.
+Shortcuts can prove quite useful in helping you to maintain focus by avoiding some extra scrolling with your mouse. In fact Brainscape claims that just by using keyboard shortcuts alone, you can increase your overall productivity by 3.3%, saving yourself a total of 64 wasted hours in a year. 
