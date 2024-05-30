@@ -1,1 +1,1 @@
-Compilando il compilatore di python... sì non mi faccio mancare niente. Colpa delle lib di matlab e mathematica che con la nuova versione di python in debian 12 non funzionano. Migrazione lunga giorni sofferta, vediamo se sistemo.
+Python compilato in meno di 5 minuti sulla mia macchina con 8 giga di ram e un celeron a raffreddamento passivo; un po' di magia nera con le versioni di python, un po' di magia nera con i kernel di jupyter, le mie versioni di mathematica e matlab accessibili da python su debian 12. Yeee!
