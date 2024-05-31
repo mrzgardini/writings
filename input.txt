@@ -1,3 +1,1 @@
-NRO Launches First Mission of Proliferated System with NROL-146 https://www.nro.gov/Portals/135/Documents/news/press/2024/NROL-146_Press_Release_FINAL.pdf
-
-The National Reconnaissance Office (NRO), in partnership with U.S. Space Force Space Launch Delta 30 and Space Exploration Technologies Corporation (SpaceX), successfully launched the NROL-146 mission aboard a SpaceX Falcon 9 rocket from Space Launch Complex-4 East at Vandenberg Space Force Base in California at 4:00 a.m. EDT.
+Buone letture serali: https://www.rapid7.com/db/modules/exploit/windows/smb/smb_doublepulsar_rce/
