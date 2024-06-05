@@ -1,5 +1,3 @@
-Nasa https://x.com/NASA/status/1798369195362787377
+Wolfram Data Science Boot Camp 2024 https://community.wolfram.com/groups/-/m/t/3188040
 
-Starliner to the stars!
-
-At 10:52am ET, Boeing Starliner lifted off on a ULA Atlas V for the first time with NASA Astronauts aboard. This Crew Flight Test aims to certify the spacecraft for routine space travel to and from the Space Station.
+Join the two-week online boot camp, to connect remotely with Wolfram instructors for a guided online introduction to applied multiparadigm data science. You will have the option to use either your own dataset at camp or one of the curated datasets from the Wolfram Data Repository or the built-in knowledgebase in the Wolfram Language, to discover insights and develop results in an area that is of importance to you.
