@@ -1,3 +1,1 @@
-Markov Chain Monte Carlo with Gaussian Process Emulation for a 1D Hemodynamics Model of CTEPH https://arxiv.org/pdf/2406.01599
-
-Microvascular disease is a contributor to persistent pulmonary hypertension in those with chronic thromboembolic pulmonary hypertension (CTEPH). The heterogenous nature of the micro and macrovascular defects motivates the use of personalized computational models, which can predict flow dynamics within multiple generations of the arterial tree and into the microvasculature. Our study uses computational hemodynamics models and Gaussian processes for rapid, subject-specific calibration using retrospective data from a large animal model of CTEPH. Our subject-specific predictions shed light on microvascular dysfunction and arterial wall shear stress changes in CTEPH. 
+Breakthrough on zero density estimates on Riemann hypothesis https://math.stackexchange.com/questions/4927285/breakthrough-on-zero-density-estimates-on-riemann-hypothesis
