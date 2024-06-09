@@ -1,15 +1,3 @@
-UN chief condemns escalating violence and civilian attacks in Myanmar https://news.un.org/en/story/2024/06/1150751
+The geometry of maximal development and shock formation for the Euler equations in multiple space dimensions https://arxiv.org/pdf/2310.08564
 
-The UN Secretary-General António Guterres is deeply concerned about escalating violence in Myanmar, he said in a statement released on Thursday.
-
-Amid Gaza war, children now work so families can survive: ILO https://news.un.org/en/story/2024/06/1150776
-
-Eight months to the day since the Israel-Hamas war erupted in Gaza, the UN labour agency, ILO, warned on Friday that families there now send their children to work just to survive, as unemployment nears a staggering 80 per cent.
-
-Ukraine: Security Council hears of escalating toll of Kharkiv attacks https://news.un.org/en/story/2024/06/1150791
-
-A recent escalation in fighting in Ukraine, particularly in the Kharkiv region, has left nearly 200 people dead, displaced thousands more and further crippled critical infrastructure, with implications for global food security, a senior UN humanitarian said on Friday. 
-
-Terrorism, humanitarian crises threaten stability of West Africa: UN deputy chief https://news.un.org/en/story/2024/06/1150816
-
-Rapidly evolving global political, social, environmental and security challenges risk undermining peace and economic development across West Africa, the UN deputy chief said on Friday, reiterating the importance of a multilateral and inclusive response.
+We construct a fundamental piece of the boundary of the maximal globally hyperbolic development (MGHD) of Cauchy data for the multi-dimensional compressible Euler equations, which is necessary for the local shock development problem. For an open set of compressive and generic initial data, we construct unique solutions to the Euler equations in the maximal spacetime region below a given time-slice, beyond the time of the first singularity; at any point in this spacetime, the solution can be smoothly and uniquely computed by tracing both the fast and slow acoustic characteristic surfaces backward-in-time, until reaching the Cauchy data prescribed along the initial time-slice. The future temporal boundary of this spacetime region is a singular hypersurface, containing the union of three sets: first, a co-dimension-2 surface of “first singularities” called the pre-shock; second, a downstream hypersurface called the singular set emanating from the pre-shock, on which the Euler solution experiences a continuum of gradient catastrophes; third, an upstream hypersurface consisting of a Cauchy horizon emanating from the pre-shock, which the Euler solution cannot reach. We develop a new geometric framework for the description of the acoustic characteristic surfaces which is based on the Arbitrary Lagrangian Eulerian (ALE) framework, and combine this with a new type of differentiated Riemann variables which are linear combinations of gradients of velocity, sound speed, and the curvature of the fast acoustic characteristic surfaces. With these new variables, we establish uniform Sobolev bounds for solutions to the Euler equations without derivative loss and with optimal regularity.
