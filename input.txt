@@ -1,1 +1,15 @@
-Show that there exist $a_2, \ldots, a_n \in A$ such that for all $j \in \{1, \ldots, m\}, x_1 + \sum_{i=2}^n a_i x_i \notin P_j M_{P_j}$ https://math.stackexchange.com/questions/4929700/show-that-there-exist-a-2-ldots-a-n-in-a-such-that-for-all-j-in-1-ld
+UN chief condemns escalating violence and civilian attacks in Myanmar https://news.un.org/en/story/2024/06/1150751
+
+The UN Secretary-General António Guterres is deeply concerned about escalating violence in Myanmar, he said in a statement released on Thursday.
+
+Amid Gaza war, children now work so families can survive: ILO https://news.un.org/en/story/2024/06/1150776
+
+Eight months to the day since the Israel-Hamas war erupted in Gaza, the UN labour agency, ILO, warned on Friday that families there now send their children to work just to survive, as unemployment nears a staggering 80 per cent.
+
+Ukraine: Security Council hears of escalating toll of Kharkiv attacks https://news.un.org/en/story/2024/06/1150791
+
+A recent escalation in fighting in Ukraine, particularly in the Kharkiv region, has left nearly 200 people dead, displaced thousands more and further crippled critical infrastructure, with implications for global food security, a senior UN humanitarian said on Friday. 
+
+Terrorism, humanitarian crises threaten stability of West Africa: UN deputy chief https://news.un.org/en/story/2024/06/1150816
+
+Rapidly evolving global political, social, environmental and security challenges risk undermining peace and economic development across West Africa, the UN deputy chief said on Friday, reiterating the importance of a multilateral and inclusive response.
