@@ -1,1 +1,1 @@
-A Lagrange interpolation question https://mathoverflow.net/questions/472881/a-lagrange-interpolation-question
+A question about eigenvalues/eigenvectors in the Page 291 of Gilbert Strang's Linear Algebra 5th https://math.stackexchange.com/questions/4929843/a-question-about-eigenvalues-eigenvectors-in-the-page-291-of-gilbert-strangs-li
