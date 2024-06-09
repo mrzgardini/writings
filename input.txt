@@ -1,1 +1,1 @@
-2024: Do you believe P = NP, or P ≠ NP? https://www.reddit.com/r/math/comments/1dbl5o6/2024_do_you_believe_p_np_or_p_np/
+A Lagrange interpolation question https://mathoverflow.net/questions/472881/a-lagrange-interpolation-question
