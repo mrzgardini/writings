@@ -1,3 +1,1 @@
-6-8-1724 https://maa.org/news/on-this-day/1724-6-8
-
-Euler received masters degree in philosophy at age 17. Upon receipt of the degree, he gave a lecture comparing the philosophical ideas of Descartes and Newton. His bachelor's speech, in the summer of 1722, was "on temperance."
+Show that there exist $a_2, \ldots, a_n \in A$ such that for all $j \in \{1, \ldots, m\}, x_1 + \sum_{i=2}^n a_i x_i \notin P_j M_{P_j}$ https://math.stackexchange.com/questions/4929700/show-that-there-exist-a-2-ldots-a-n-in-a-such-that-for-all-j-in-1-ld
