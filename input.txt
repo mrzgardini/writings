@@ -1,1 +1,1 @@
-Mezzoretta e inizia la wwdc 2024.
+Apple ha dichiarato di aver addestrato in casa un diffusion model e un large language model, chiamati apple intelligence. Ha dichiarato che girano in locale per la privacy ma per maggior potenza ha un cloud (nessun accenno a crittografia omormofica che google internamente sta sviluppando). Sta mostrando come con l'llm siri e le sue varie app siano molto più semplici e potenti. Insomma, un sei meno meno.
