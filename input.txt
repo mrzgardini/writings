@@ -1,3 +1,3 @@
-grenedalf: population genetic statistics for the next generation of pool sequencing https://arxiv.org/pdf/2306.11622
+The Link Between Cruelty to Animals and Violence Toward Humans https://aldf.org/article/the-link-between-cruelty-to-animals-and-violence-toward-humans-2/
 
-Pool sequencing is an efficient method for capturing genome-wide allele frequencies from multiple individuals, with broad applications such as studying adaptation in Evolve-and-Resequence experiments, monitoring of genetic diversity in wild populations, and genotype-to-phenotype mapping. Here, we present grenedalf, a command line tool written in C++ that implements common population genetic statistics such as θ, Tajima’s D, and FST for Pool sequencing. It is orders of magnitude faster than current tools, and is focused on providing usability and scalability, while also offering a plethora of input file formats and convenience options.
+Phil Arkow, coordinator of the National Link Coalition - a group focusing on the intersection between violence toward animals and humans - has written often about animal abuse being an indication of domestic violence, or what’s called a 'predictor crime.'
