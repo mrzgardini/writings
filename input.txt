@@ -1,1 +1,3 @@
-Un articolo di chirurgia in cui si cita Lev Landau e Serge Lang? Qui sotto.
+ PrimeGrid's 19th Birthday Challenge https://www.primegrid.com/forum_thread.php?id=10568
+
+PrimeGrid will commemorate the 19th anniversary of its founding on June 12, 2005, by running a 7-day challenge on the GFN-19 project. The Generalized Fermat Number project is a sub-project of PrimeGrid that tests the primality of numbers of the form b^n + 1, where b is an even integer and n is an integer that is a power of 2. The GFN-19 sub-project tests numbers where n = 2^19. 
