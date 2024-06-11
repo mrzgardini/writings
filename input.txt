@@ -1,3 +1,1 @@
-Solving a 112-bit Prime Elliptic Curve Discrete Logarithm Problem on Game Consoles using Sloppy Reduction https://www.joppebos.com/files/noan112.pdf
-
-We describe a Cell processor implementation of Pollard’s rho method to solve discrete logarithms in groups of elliptic curves over prime fields. The implementation was used on a cluster of PlayStation 3 game consoles to set a new record. We present in detail the underlying single instruction multiple data modular arithmetic.
+Prove that <p>$\liminf_i a^{-1}_{i-j}a_i = \liminf_i a_i^{j/i}$ for any sequence $a_i$</p>? https://math.stackexchange.com/questions/4930873/prove-that-liminf-i-a-1-i-ja-i-liminf-i-a-ij-i-for-any-sequence-a
