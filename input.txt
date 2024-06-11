@@ -1,1 +1,5 @@
-test
+Please Stop Encrypting with RSA Directly https://soatok.blog/2021/01/20/please-stop-encrypting-with-rsa-directly/
+
+However, there is a problem with the execution of this idea. And this isn’t a problem unique to Zuccnet. Several times per year, I come across some well-meaning software project that makes the same mistake: Encrypting messages with RSA directly is bad.
+
+To the Zuccnet author’s credit, they’re using OAEP padding, not PKCS#1 v1.5 padding. This means their code isn’t vulnerable to Bleichenbacher’s 1998 padding oracle attack (n.b. most of the RSA code I encounter in the wild is vulnerable to this attack).
