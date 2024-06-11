@@ -1,5 +1,14 @@
-Please Stop Encrypting with RSA Directly https://soatok.blog/2021/01/20/please-stop-encrypting-with-rsa-directly/
+Where Feynman talks about the study method? https://huggingface.co/chat/conversation/VJxo4Vr
 
-However, there is a problem with the execution of this idea. And this isn’t a problem unique to Zuccnet. Several times per year, I come across some well-meaning software project that makes the same mistake: Encrypting messages with RSA directly is bad.
+The Feynman Lectures on Physics
+The Character of Physical Law
+QED: The Strange Theory of Light and Matter
+Surely You're Joking, Mr. Feynman!
+Interviews and lectures
 
-To the Zuccnet author’s credit, they’re using OAEP padding, not PKCS#1 v1.5 padding. This means their code isn’t vulnerable to Bleichenbacher’s 1998 padding oracle attack (n.b. most of the RSA code I encounter in the wild is vulnerable to this attack).
+The "Feynman Technique" is a distillation of his approach to learning and problem-solving, which can be summarized as follows:
+
+Write down the problem: Clearly define the problem you're trying to solve.
+Teach it to a child: Explain the problem and your solution in simple terms, as if you were teaching a child.
+Identify the gaps: Identify the areas where you're not sure or don't understand.
+Review and refine: Review your explanation, refine your understanding, and fill in the gaps.
