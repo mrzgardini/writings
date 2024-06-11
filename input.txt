@@ -1,3 +1,3 @@
-Congratulations Associate Professor Yao Yao! https://www.math.nus.edu.sg/2024/05/10/congratulations-a-p-yao-yao/
+Solving a 112-bit Prime Elliptic Curve Discrete Logarithm Problem on Game Consoles using Sloppy Reduction https://www.joppebos.com/files/noan112.pdf
 
-Congratulations to Associate Professor Yao Yao for receiving the NUS Annual Teaching Excellence Award (ATEA) for year 2024!
+We describe a Cell processor implementation of Pollard’s rho method to solve discrete logarithms in groups of elliptic curves over prime fields. The implementation was used on a cluster of PlayStation 3 game consoles to set a new record. We present in detail the underlying single instruction multiple data modular arithmetic.
