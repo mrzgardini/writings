@@ -1,1 +1,1 @@
-<div class='math'>Show that $1x=x ;\forall x \in F^n$ https://math.stackexchange.com/questions/4930686/show-that-1x-x-forall-x-in-fn</div>
+Geometric Analysis of Several Complex Variables and PDEs https://math.unibo.it/en/events/geometric-analysis-of-several-complex-variables-and-pdes
