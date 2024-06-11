@@ -1,14 +1,1 @@
-Where Feynman talks about the study method? https://huggingface.co/chat/conversation/VJxo4Vr
-
-The Feynman Lectures on Physics
-The Character of Physical Law
-QED: The Strange Theory of Light and Matter
-Surely You're Joking, Mr. Feynman!
-Interviews and lectures
-
-The "Feynman Technique" is a distillation of his approach to learning and problem-solving, which can be summarized as follows:
-
-Write down the problem: Clearly define the problem you're trying to solve.
-Teach it to a child: Explain the problem and your solution in simple terms, as if you were teaching a child.
-Identify the gaps: Identify the areas where you're not sure or don't understand.
-Review and refine: Review your explanation, refine your understanding, and fill in the gaps.
+> Oliver Tree - Cash machine https://youtube.com/watch?v=WgRzI8eUuY0
