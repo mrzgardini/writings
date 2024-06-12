@@ -1,5 +1,8 @@
-George Lusztig Receives Gold Medal https://math.mit.edu/
+Mercoledì 12 giugno 2024 https://www.mat.uniroma1.it
 
-Abdun-Nur Professor of Mathematics George Lusztig received a gold medal from the West University of Timișoara in Romania. George was born and raised in Timișoara. This Honorary Distinction for Excellence is given to international personalities for excellence in various fields.
+Ore 14:00, Sala di Consiglio, Dipartimento di Matematica, Sapienza Università di Roma
+Seminario di Algebra e Geometria
+Yukako Kezuka (Institut de Mathématiques de Jussieu-PRG)
+Non-commutative Iwasawa theory of abelian varieties
+Non-commutative Iwasawa theory has emerged as a powerful framework for understanding deep arithmetic properties over number fields contained in a p-adic Lie extension and their precise relationship to special values of complex L-functions. This talk aims to explore non-commutative Iwasawa theory over global function fields. We consider an abelian variety A defined over various base fields F, and discuss its arithmetic over the cyclotomic Z_p-extension and more general p-adic Lie extensions. After reviewing some known results over number fields, we shift our focus to the case of global function fields. In this context, we compare the arithmetic of A over different p-adic Lie extensions without assuming the finiteness of the Selmer group of A over the base field F.
 
-Felicitări, George!
