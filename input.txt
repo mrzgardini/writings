@@ -1,5 +1,1 @@
-Nel tempo libero mi sto divertendo a seguire questi due processi, il secondo ha meno priorità data la mole d'udienze. 
-
-Processo nei confronti di Piercamillo Davigo (accusato di rivelazione di segreto), 12 udienze: https://www.radioradicale.it/processi/1402/processo-nei-confronti-di-piercamillo-davigo-accusato-di-rivelazione-di-segreto
-
-Processo per il crac Parmalat, 576 udienze: https://www.radioradicale.it/processi/202/processo-per-il-crac-parmalat
+Sono busy con il recovery dei docker del mio serverino ko. Mi confermate che se non uso roba astratta come kubernets o compose, mi basta un brutale cp di /var/lib/docker?
