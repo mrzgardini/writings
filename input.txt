@@ -1,1 +1,3 @@
-> Avril Lavigne - Love sux https://youtube.com/watch?v=-SbGHxNEq6U
+Nash's work in algebraic geometry https://www.ams.org/journals/bull/2017-54-02/S0273-0979-2016-01543-6/S0273-0979-2016-01543-6.pdf
+
+This article is a survey of Nash’s contributions to algebraic geometry, focusing on the topology of real algebraic sets and on arc spaces of singularities.
