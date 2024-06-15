@@ -1,3 +1,3 @@
-Carnevale della Matematica #179 https://xmau.com/wp/notiziole/2024/06/14/carnevale-della-matematica-179/
+6-14-1822 https://maa.org/news/on-this-day/1822-6-14
 
-Come ho detto, 179 è un numero primo: ma è anche un membro della catena di Cunningham 89, 179, 359, 719, 1439, 2879 (la più piccola con sei membri), e non essendo né il primo né l’ultimo della catena è per definizione un numero primo di Sophie Germain e un numero primo sicuro. È anche un superprimo, perché è il 41.mo numero primo e 41 è primo; infine è un numero omirp.
+Charles Babbage introduced the "Difference engine," the forerunner of our modern computers. Babbage read a paper to the Astronomical Society of London entitled "Note on the application of machinery to the computation of astronomical and mathematical tables" and announced the successful completion of the "Difference engine."
