@@ -1,1 +1,2 @@
-Pillola rossa 💊. Si sentono importanti trappando di scannamenti con armi automatiche, ignorano che sono meri prodotti, e intese come tali.
+A Deep Dive into EEG Analysis for Predicting Neurological Outcomes https://blogs.mathworks.com/student-lounge/2024/06/17/a-deep-dive-into-eeg-analysis-for-predicting-neurological-outcomes/
+Considering the massive size of the dataset (2.63 TB) provided by the challenge organizers, the largest in PhysioNet’s history, we decided to incorporate high-performance computing into our workflow by utilizing our campus supercomputer, Strelka. We would write MATLAB programs on our local machines to run with small subsets of the PhysioNet data before transferring these scripts to Strelka to execute larger batch jobs and evaluate our results.
