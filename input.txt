@@ -1,2 +1,6 @@
-New Computational Model of Real Neurons Could Lead to Better AI https://www.simonsfoundation.org/2024/06/24/new-computational-model-of-real-neurons-could-lead-to-better-ai/
-A new model developed at the Flatiron Institute’s Center for Computational Neuroscience (CCN) suggests that this decades-old approximation doesn’t capture all the computational abilities that real neurons possess and that this older model is potentially holding back AI development.
+La Mathematical association of America ha aggiornato il sito, rendendolo fortunatamente meno dispersivo. Di contro ha deprecato i feed, pure il suo On this day che curava da anni. Non ha il feed ma per i fanatici degli almanacchi ci stanno sempre:
+
+Calendario dei mitici Rudi: https://www.rudimathematici.com/.../RM_2024_Calendar.pdf
+La onnipresente University of St Andrews: https://mathshistory.st-andrews.ac.uk/OfTheDay/today/
+
+Non sono feed ma ci accontentiamo, per segure la Maa andate di twitter o posta elettronica.
