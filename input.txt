@@ -1,1 +1,2 @@
-> Mara Sattei - Tasche https://youtube.com/watch?v=CyZqYa-NOyM
+'There exist formal systems whose negative space (set of non-theorems) is not the positive space (set of theorems) of any formal system.'
+Douglas Hofstadter, Gödel, Escher, Bach: an Eternal Golden Braid, Basic book, 1979.
