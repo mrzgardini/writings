@@ -1,1 +1,1 @@
-Sai già dove iniziare https://youtube.com/watch?v=6X1Ku_uMimI
+Serverless Jupyter Notebooks at Meta https://engineering.fb.com/2024/06/10/data-infrastructure/serverless-jupyter-notebooks-bento-meta/
