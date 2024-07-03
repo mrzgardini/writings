@@ -1,3 +1,1 @@
-Xbox Series X è più potente di PS5 ma non lo dimostra, e Digital Foundry crede di aver capito perché https://multiplayer.it/notizie/xbox-series-x-e-piu-potente-di-ps5-ma-non-lo-dimostra-e-digital-foundry-crede-di-aver-capito-perche.html
-Come sappiamo, sulla carta Xbox Series X è equipaggiata con una GPU capace di esprimere 12 TFLOPS di potenza, in combinazione con una banda passante pari a 560 GB/s per la memoria, contro i 10,23 TFLOPS di PS5 e una banda passante pari a 448 GB/s.
-Secondo alcuni sviluppatori tripla A, questo fenomeno è legato a due aspetti: da un lato il compiler per la GPU di PS5 risulta essere molto più efficiente rispetto a quello di Xbox e consente dunque di sfruttare meglio l'hardware disponibile; dall'altro, la GPU stessa della console Sony è stata progettata diversamente.
+Il nuovo interprete python è scritto in python, yeee. https://pyfound.blogspot.com/2024/06/python-language-summit-2024-pyrepl-new-default-repl-for-python.html
