@@ -1,4 +1,4 @@
-Allerta Charlie: le basi americane in Europa si preparano a un possibile attacco terroristico
-In un comunicato divulgato domenica 30 giugno, il Comando europeo degli Stati Uniti ha dichiarato che una «varietà di fattori gioca a favore della sicurezza della comunità militare statunitense all’estero». Di qui l’aumento del livello di minaccia da “Bravo” a “Charlie”.
-Le principali installazioni americane presenti attualmente in Italia sono Camp Ederle, a Vicenza, sede della 173/a Brigata Aerotrasportata e dell’United States Army Africa (Usaraf); Aviano , in Friuli Venezia Giulia (che gli Usa condividono con l’aeronautica militare italiana) dove sono di stanza caccia F-16 dell’Usaf e dove sono stoccate pure le bombe nucleari B-61 (parte del dispositivo di deterrenza della NATO), e la Naval Support Acvitity di Napoli, sede della Sesta Flotta dell’US Navy.
-ilsole
+Beating bird flu with maths https://plus.maths.org/content/beating-bird-flu-0
+Even in the absence of high-quality data, mathematical models can identify major risk factors and give qualitative predictions.
+Farms were also classified to account for other factors that may impact the risk of transmission, for example the species of birds they housed and whether those birds were kept for their eggs or their meat.
+As far as the risk to humans is concerned, Sharkey hopes that models designed to understand the spread among poultry will provide important clues. The idea is to derive risk factors for different sectors of the industry. Seeing how many people in a sector regularly come into close contact with the animals, researchers may then be able to estimate the chance of human infection.
