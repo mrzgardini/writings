@@ -1,1 +1,2 @@
-> Mnek - Colour https://youtube.com/watch?v=Idt4VmOpMCM
+Tracking Ariane 6 as it soars over the Azores https://www.esa.int/Enabling_Support/Operations/Tracking_Ariane_6_as_it_soars_over_the_Azores
+As Ariane 6 thunders and roars as it rises into the sky from Europe's Spaceport in Kourou, French Guiana, activity on the ground continues. The launcher control team in Kourou monitor an influx of data from ground stations scattered along the rocket’s flight path that receive telemetry as it passes overhead at up to 28 000 km per hour.
