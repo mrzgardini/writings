@@ -1,1 +1,1 @@
-Un gruppo di ricerca ha scritto una lib per python in c per fare derivate di derivate di derivate di derivate di derivate di derivate di derivate efficientemente, da quanto ho capito è utile nella fluidodinamica. Il progetto è diventato jax, se non erro di google.
+> Mnek - Colour https://youtube.com/watch?v=Idt4VmOpMCM
