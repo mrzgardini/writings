@@ -1,2 +1,1 @@
-European space agency https://github.com/esa/torchquad
-Numerical integration in arbitrary dimensions on the GPU using PyTorch / TF / JAX.
+Aww... https://munchmeyer.physics.wisc.edu/lecture-notes/
