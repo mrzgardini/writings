@@ -1,2 +1,1 @@
-Demis Hassabis https://x.com/demishassabis/status/1811020427638063189
-Huge congrats to Pete Battaglia & our GraphCast team who won the Mac Robert Award, the UK’s top award for engineering innovation! GraphCast provides super fast and highly accurate weather predictions up to 10 days in advance, including early warnings for extreme weather events.
+Surreal numbers by Knuth, the "bad numbers" proof https://math.stackexchange.com/questions/4945143/surreal-numbers-by-knuth-the-bad-numbers-proof
