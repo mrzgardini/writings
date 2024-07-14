@@ -1,4 +1,11 @@
-'Lo scopo particolare che cercavamo di raggiungere con queste lezioni era di conservare l’interesse degli studenti più entusiasti e più svegli provenienti dalle scuole superiori e ammessi al Caltech. Essi hanno appreso quanto sia interessante ed eccitante la fisica – la teoria della relatività, la meccanica quantistica e altre idee moderne.'
-Richard Feynman.
+Office of the Director of National Intelligence (ODNI) / Intelligence
+Advanced Research Projects Activity (IARPA) https://www.iarpa.gov/newsroom/article/video-lincs-baa
 
-> Taylor Swift - The man https://youtube.com/watch?v=AqAJLh9wuZ0
+UNCLASSIFIED
+
+The goal of the Video LINCS program, it to develop re-identification (reID) algorithms to autonomously associate objects across diverse, non-collaborative, video sensor footage and map re-identified objects to a unified coordinate system (geo-localization)
+1.A.1.a TA-1 – ReID Challenges
+Video in a collection may come from many different sources and collection geometries, containing significantly different characteristics that are difficult to associate. The variations in appearance within and across video sensor footage, which may range across many collection types such as
+stationary and mobile; ground-based, building/roof/pole mounted and aerial; outdoor and indoor; day and night; varying weather conditions; temporally proximate and distant; noise/artifacts/corruption, etc., present significant challenges to reidentifying objects across such collections.
+1.A.1.b TA-2 – Object Geo-localization Challenges
+Object geo-localization presents a number of challenges. Homographies are often used to transform from image-plane to ground-plane coordinates, but the homographies are often computed manually, and are based on the assumption/approximation of a planar scene. Geometric inverse mapping using camera pose and auxiliary information may be attempted, but camera pose is not always available, and scale must be resolved. Even when camera pose is available, it may not be sufficiently accurate to facilitate inverse mapping.
