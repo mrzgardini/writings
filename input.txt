@@ -1,1 +1,4 @@
-Surreal numbers by Knuth, the "bad numbers" proof https://math.stackexchange.com/questions/4945143/surreal-numbers-by-knuth-the-bad-numbers-proof
+"A mathematician is a blind man
+in a dark room
+looking for a black cat
+which isn't there."
