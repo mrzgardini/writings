@@ -1,4 +1,1 @@
-Persona normale = videogame in pixel art.
-Stephen Wolfram = John Conway's game of life.
-
-> Mara Sattei - Tasche https://youtube.com/watch?v=CyZqYa-NOyM
+Differentiable functions $f : \Bbb R^2 \to \Bbb R^2$ not complex differentiable https://math.stackexchange.com/questions/4945947/differentiable-functions-f-bbb-r2-to-bbb-r2-not-complex-differentiable
