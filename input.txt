@@ -1,1 +1,1 @@
-Integration $\int_{M} f (x.,y,z,w)\ d {\rm Vol}_3$ https://math.stackexchange.com/questions/4946022/intergrating-int-m-f-x-y-z-w-d-rm-vol-3
+Stavo per porre un quesito nella sezione unix di stackexchange ma poi ho risolto. Perdonami Gesù se ho peccato.
