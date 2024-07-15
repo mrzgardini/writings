@@ -1,1 +1,1 @@
-Virtute siderum tenus https://youtube.com/watch?v=wCw-W-2Rs0k
+Stavo leggendo che i modelli per competere alle aimo traducono i problemi in codice python per lavorarci sopra. È interessante anche come viene usata la numpy per moltiplicare le enormi matrici nella parte sistemistica per esempio.
