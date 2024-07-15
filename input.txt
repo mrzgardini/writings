@@ -1,1 +1,1 @@
-Differentiable functions $f : \Bbb R^2 \to \Bbb R^2$ not complex differentiable https://math.stackexchange.com/questions/4945947/differentiable-functions-f-bbb-r2-to-bbb-r2-not-complex-differentiable
+Combattendo con xfce per rendere utilizzabili i programmi realizzati con qt. Che noooiiiaaa.
