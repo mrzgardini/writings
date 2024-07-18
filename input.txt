@@ -1,2 +1,1 @@
-Novartis https://github.com/Novartis/scar
-scAR (single-cell Ambient Remover) is a deep learning model for removal of the ambient signals in droplet-based single cell omics.
+Un po' di bozze carine: https://mrzgardini.github.io/writings/documenti/160720241329.pdf
