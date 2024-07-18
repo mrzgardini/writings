@@ -1,1 +1,1 @@
-Lendojo permette di usare llama e altri llm in modalità copilot. Io felice.
+How NuminaMath Won the 1st AIMO Progress Prize https://huggingface.co/blog/winning-aimo-progress-prize
