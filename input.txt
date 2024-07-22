@@ -1,1 +1,3 @@
-Derivative of the Cross Entropy loss function with the Softmax function https://math.stackexchange.com/questions/4948866/derivative-of-the-cross-entropy-loss-function-with-the-softmax-function
+Turing degrees of hyperjumps https://arxiv.org/pdf/2101.08818
+
+> Ariete - Un'altra ora https://youtube.com/watch?v=vuXFI4AwvMU
