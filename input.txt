@@ -1,1 +1,2 @@
-Sto integrando sempre di più gli llm nel mio flusso di lavoro, se google e i risultati sono da fonti che non conosco passo a llama o gemini. Per le informazioni ci stanno di brutto, per l'aritmetica, gemini, meno. Gli ho chiesto di calcolarmi gli anni passati dal 1650 ac al 2024 dc e mi ha risposto con i passaggi corretti e infine un laconico 375 (Chi indovina il calcolo che ha fatto?).
+Doudna Lab https://x.com/doudna_lab/status/1814051743166280044
+Using protein structural search, we trace Cas13 origins from defense associated AbiD/F to ancestral Cas13s (Cas13an). At 1/3 the size of larger Cas13s, Cas13an shows properties that reveal recurrent themes in CRISPR evolution.
