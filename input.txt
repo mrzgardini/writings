@@ -1,1 +1,1 @@
-Yann LeCun sta dicendo che non verrà reso disponibile in Europa llama 3 in versione multimodale per problemi legislativi.
+Sto integrando sempre di più gli llm nel mio flusso di lavoro, se google e i risultati sono da fonti che non conosco passo a llama o gemini. Per le informazioni ci stanno di brutto, per l'aritmetica, gemini, meno. Gli ho chiesto di calcolarmi gli anni passati dal 1650 ac al 2024 dc e mi ha risposto con i passaggi corretti e infine un laconico 375 (Chi indovina il calcolo che ha fatto?).
