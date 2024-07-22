@@ -1,2 +1,1 @@
-Agenzia spaziale italiana https://x.com/ASI_spazio/status/1813939120818815389
-Il satellite GAIA è stato colpito da una tempesta solare e da micrometeoriti. Il suo team di tecnici è risuscito però a rimetterlo in sesto.
+Reproducing NOAA "avocado plot" and high tornado risk forecast for Jul 15, 2024 U.S. Midwest https://community.wolfram.com/groups/-/m/t/3221665
