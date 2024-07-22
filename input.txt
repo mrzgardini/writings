@@ -1,2 +1,1 @@
-Doudna Lab https://x.com/doudna_lab/status/1814051743166280044
-Using protein structural search, we trace Cas13 origins from defense associated AbiD/F to ancestral Cas13s (Cas13an). At 1/3 the size of larger Cas13s, Cas13an shows properties that reveal recurrent themes in CRISPR evolution.
+Come si compila talib su arm? Dice che non si può.
